@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  circ: MyString
+  region: MyString
+  magnitud_senador: 1
+
+two:
+  circ: MyString
+  region: MyString
+  magnitud_senador: 1

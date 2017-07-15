@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  candidato: MyString
+  partido: MyString
+  pacto: MyString
+
+two:
+  candidato: MyString
+  partido: MyString
+  pacto: MyString

@@ -52,10 +52,10 @@ ActiveRecord::Schema.define(version: 20170715222416) do
     t.string   "candidato"
     t.string   "partido"
     t.string   "pacto"
-    t.datetime "created_at",          null: false
-    t.datetime "updated_at",          null: false
-    t.integer  "circunscripcions_id"
-    t.index ["circunscripcions_id"], name: "index_senadors_on_circunscripcions_id"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
+    t.integer  "circunscripcion_id"
+    t.index ["circunscripcion_id"], name: "index_senadors_on_circunscripcion_id"
   end
 
 end

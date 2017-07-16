@@ -1,3 +1,3 @@
 class Senador < ApplicationRecord
-	belongs_to :circunscripcions
+	belongs_to :circunscripcion
 end

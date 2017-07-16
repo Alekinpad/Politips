@@ -1,8 +1,17 @@
 <%= @c_id %>
 <%= @distrito.numero_distrito %>
 <%= @distrito.magnitud_diputado %>
-<%= @diputados %>
 <%= @distrito.circunscripcion %>
 <%= @senadores %>
+
+<ul>
+  <% @diputados.each do |diputado| %>
+    <li>
+      <%= diputado.candidato %>
+    </li>
+  <% end %>
+</ul>
+
+
 
 <!--  -->

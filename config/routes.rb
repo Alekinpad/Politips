@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   root to: 'sitios#index'
 
   post 'sitios/resultado'
+  get 'sitios/resultado'
+  get 'sitios/back'
 
   get 'sitios/contacto'
 

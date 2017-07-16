@@ -5,14 +5,18 @@ class SitiosController < ApplicationController
   end
 
   def resultado
-    @c_id = params[:comuna]
-    @comuna = Comuna.find_by({'id':@c_id})
-    @distrito = @comuna.distrito
-    @diputados = @distrito.diputados
-    @circunscripcion = @distrito.circunscripcion
-    @senadores = @circunscripcion.senadors
+
+      @c_id = params[:comuna]
+      @comuna = Comuna.find_by({'id':@c_id})
+      @distrito = @comuna.distrito
+      @diputados = @distrito.diputados
+      @circunscripcion = @distrito.circunscripcion
+      @senadores = @circunscripcion.senadors
   end
 
   def contacto
+  end
+  def back
+    redirect_to "/"
   end
 end

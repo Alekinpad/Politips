@@ -1,3 +1,6 @@
+
+/*TAMAÑOS TABLET Y DESC
+
 /* HOME */
 
 h1 h2 h3 h4 h5 {
@@ -44,7 +47,7 @@ body {
 }
 
 .barra_busqueda select {
-  width: 600px;
+  max-width: 200px;
 
 }
 
@@ -72,6 +75,8 @@ footer {
   color: #95989A;
 }
 
+
+
 .resultado {
   font-family: 'Open Sans', sans-serif;
 }
@@ -97,12 +102,23 @@ footer {
   font-weight: normal;
 }
 
+/* DIPUTADOS % */
+
 .resultado_diputados {
   text-align: center;
   font-weight: normal;
   font-size: 30px;
   color:#FF5555;
 }
+
+.porcentaje_diputados {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  color: #FF5555;
+}
+
+/* SENADORES % */
 
 .resultado_senadores {
 
@@ -112,18 +128,8 @@ footer {
   color:#1C82F7;
 }
 
-.porcentaje {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-
-.porcentaje_diputados {
-  text-align: center;
-  font-size: 100px;
-  color: #FF5555;
-}
-
 .porcentaje_senadores {
+  font-family: 'Oswald', sans-serif;
   text-align: center;
   font-size: 100px;
   color: #1C82F7;
@@ -135,6 +141,10 @@ footer {
   margin-bottom: 70px;
   font-size: 70px;
 }
+
+/* DESPLEGABLES */
+
+/* desplegable 1*/
 
 .titulo_circunscripcion {
   text-align: center;
@@ -148,20 +158,20 @@ footer {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
   color: #252323;
-}
-
-.desplegable_1{
   padding-top: 13px;
   margin-bottom: 0;
-}
-
-.desplegable_2{
-  padding-top: 10px;
 }
 
 .principal_desplegable1{
   font-size: 26px;
   line-height: 41px
+}
+
+/* desplegable 2 */
+
+.desplegable_2{
+  padding-top: 10px;
+  font-size: 20px;
 }
 
 .datos_1{
@@ -180,6 +190,14 @@ footer {
   color: #252323;
 }
 
+/* colapsable */
+
+.titulo_distrito {
+  text-align: center;
+  padding: 40px 0 20px 0;
+  font-family: 'Oswald', sans-serif;
+}
+
 .colapsable_datos {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
@@ -189,10 +207,8 @@ footer {
   line-height: 41px
 }
 
-.titulo_distrito {
-  text-align: center;
-  padding: 40px 0 20px 0;
-  font-family: 'Oswald', sans-serif;
+.colapsable_datos ul li{
+  padding: 20px 0 20px 60px;
 }
 
 .footer_estilo {
@@ -209,139 +225,49 @@ footer {
   color: #fff;
 }
 
+/*  MEDIA QUERY TABLET*/
+
+@media screen and (max-width: 767px) {
+    .select2 {
+        width: 40% !important;
+    }
+    .numberCircle{
+
+      margin: 0 auto;
+
+    }
+}
+
+/* MEDIA QUERY MOVILES*/
+
 @media screen and (max-width: 480px) {
 
+  /* home */
+
+  .parallax{
+     height: 600px;
+  }
+
   .resultado_titulo {
-    padding: 30px 0 20px 0;
-    font-weight: normal;
-    font-size: 37px;
-    text-align: center;
-  }
+  padding: 30px 0 20px 0;
 
-  .resultado_voto {
-    font-weight: normal;
-    font-size: 20px;
-    color: #95989A;
-    text-align: center;
-  }
+}
+.resultado_voto span{
+  font-weight: normal;
+}
+.porcentaje_diputados {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.icono_abajo {
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 70px;
+  font-size: 70px;
+}
+.principal_desplegable1{
+  font-size: 26px;
+  line-height: 41px
+}
 
-  .resultado_voto span{
-    font-size: 16px;
-    font-weight: normal;
-  }
-
-  .resultado_diputados {
-    font-weight: normal;
-    font-size: 20px;
-    text-align: center;
-    color:#FF5555;
-  }
-
-  .resultado_senadores {
-    font-weight: normal;
-    font-size: 20px;
-    text-align: center;
-    color:#1C82F7;
-  }
-
-  .porcentaje {
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
-  }
-
-  .porcentaje_diputados {
-    font-size: 53px;
-    color: #FF5555;
-
-  }
-
-  .porcentaje_senadores {
-    font-size: 53px;
-    color: #1C82F7;
-
-  }
-
-  .icono_abajo {
-    text-align: center;
-    padding-top: 40px;
-    margin-bottom: 40px;
-    font-size: 50px;
-  }
-
-  .titulo_circunscripcion {
-    text-align: center;
-    padding-bottom: 30px;
-  }
-
-  .principal_desplegable1 {
-    text-align: center;
-    padding-top: 13px;
-    margin-bottom: 0;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: lighter;
-    color: #252323;
-  }
-
-  .desplegable_1{
-    padding-top: 13px;
-    margin-bottom: 0;
-    font-size: 20px;
-  }
-
-  .desplegable_2{
-    padding-top: 10px;
-    margin-bottom: 0;
-    font-size: 20px;
-  }
-
-  .principal_desplegable1{
-    font-size: 26px;
-    line-height: 41px
-  }
-
-  .datos_1{
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: lighter;
-    color: #252323;
-    padding-top: 10px;
-    font-size: 20px;
-    line-height: 41px
-  }
-
-  .icono_desplegable {
-    margin: 0 auto; 
-    text-align: center;
-    padding-top: 40px;
-    font-size: 50px;
-    color: #252323;
-  }
-
-  .colapsable_datos {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: lighter;
-    color: #252323;
-    padding-top: 10px;
-    font-size: 20px;
-    line-height: 41px
-  }
-
-  .titulo_distrito {
-    text-align: center;
-    padding: 40px 0 20px 0;
-    font-family: 'Oswald', sans-serif;
-  }
-
-  .footer_estilo {
-    background-color: #424B54;
-    text-align: center;
-    height: 200px;
-  }
-
-  .footer_estilo img{
-    padding-top: 50px;
-  }
-
-  .footer_estilo h5{
-    color: #fff;
-  }
+}

@@ -8,8 +8,9 @@
       <!-- parallax con imagen de fondo -->
       <div class="container escritura text-center">
         <!-- typed js escritura -->
-        <div id="typed-strings" style="height: 200px">
+        <div id="typed-strings" style="min-height: 200px !important">
           <h1>¿Sabías que Hotuiti Teao es candidato a diputado por Valparaíso?</h1>
+          <h1>¿Sabías que Florcita Motuda es candidato a diputado por Valparaíso?</h1>
           <h1>Conoce a tus representates y el poder de voto en el buscador</h1>
         </div>
         <span id="typed"></span>
@@ -25,13 +26,12 @@
             <!-- HACK: Revisar zanahoria -->
             <!-- </select> -->
             <%= form_tag '/sitios/resultado' do %>
-            <div class="col-md-offset-2 col-md-4 col-xs-6 col-lg-6 col-xl-6  barra_busqueda ">
+            <div class="col-md-4 col-lg-4 col-xl-4 col-sm-4 col-md-offset-2 barra_busqueda ">
               <%= select_tag :comuna, options_from_collection_for_select(@comunas, :id,:nombre), {:class => 'js-example-basic-single'}%>
               </div>
-                <div class=" col-md-offset-1 col-md-1 col-sm-1 col-xs-1  col-xl-1">
-                <button type="submit" class="btn btn-default consulta">Consulta</button>
+                <div >
+                <button type="submit" class="btn btn-default consulta  barra_busqueda ">Consulta</button>
                 </div>
-              
             <% end %>
           
         </div>
@@ -92,8 +92,8 @@
     <script>
       var typed = new Typed('#typed', {
         stringsElement: '#typed-strings',
-        typeSpeed: 50,
-        backSpeed: 35
+        typeSpeed: 40,
+        backSpeed: 20,
       });
     </script>
     <script type="text/javascript">

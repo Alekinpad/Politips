@@ -8,13 +8,14 @@
 
 require 'json'
 #file = File.read('data.json')
-dataFile = JSON.parse(open("#{Rails.root}/db/db_pretty.json").read)
+dataFile = JSON.parse(open("#{Rails.root}/db/data.json").read)
 # loop iteration for JSON data
 circ = []
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
   comuna = dataFile[stuff[0]]
-  #puts comuna["magnitud_senador"]
-  circ << comuna["candidaturas_diputados"][0]["circ"]+','+comuna["candidaturas_diputados"][0]["region"]+','#+eval(comuna["magnitud_senador"])
+  magnitud_senador = comuna["magnitud_senador"]
+  puts magnitud_senador
+  circ << comuna["candidaturas_diputados"][0]["circ"]+','+comuna["candidaturas_diputados"][0]["region"]+','+magnitud_senador[0].to_s #+eval(comuna["magnitud_senador"])
 end
 
 
@@ -23,8 +24,8 @@ dataArray = circ.uniq
 dataArray.each do |array|
 	circ = array.split(",")[0]
 	region = array.split(",")[1]
-	#senMag = array.split(",")[2]
-	puts circ+" - "+ region+ " - " #+ senMag
+	senMag = array.split(",")[2]
+	puts circ + " - " + region + " - " + senMag
 #	exit
 end
 #print dataFile["Algarrobo"]

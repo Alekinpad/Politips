@@ -4,14 +4,14 @@
 
   <section class="banner_busqueda">
     <!-- seccion banner con barra de busqueda -->
-    <div class="parallax" style="margin-top: -30px">
+    <div class="parallax" style="margin-top: -30px; margin-bottom: 100px;  ">
       <!-- parallax con imagen de fondo -->
       <div class="container escritura text-center">
         <!-- typed js escritura -->
         <div id="typed-strings" style="min-height: 200px !important">
           <h1>¿Sabías que Hotuiti Teao es candidato a diputado por Valparaíso?</h1>
-          <h1>¿Sabías que Florcita Motuda es candidato a diputado por Valparaíso?</h1>
-          <h1>Conoce a tus representates y el poder de voto en el buscador</h1>
+          <h1>¿Sabías que Florcita Motuda es candidato a diputado por Providencia?</h1>
+          <h1>Conoce a tus representates y el poder de tu voto aquí. </h1>
         </div>
         <span id="typed"></span>
       </div>
@@ -30,7 +30,7 @@
               <%= select_tag :comuna, options_from_collection_for_select(@comunas, :id,:nombre), {:class => 'js-example-basic-single'}%>
               </div>
                 <div >
-                <button type="submit" class="btn btn-default consulta  barra_busqueda ">Consulta</button>
+                <button type="submit" class="btn btn-default consulta barra_busqueda">Consulta</button>
                 </div>
             <% end %>
           
@@ -38,18 +38,19 @@
       </div>
     </div>
 
-    <section class="container info_pagina">
+    <section class="container" style="
+  padding-bottom: 50px">
 
-      <div class="row">
+      <div class="row info_pagina">
         <div class="col-md-1 col-sm-1 col-xs-12 numero">
           <div class="numberCircle text-center">1</div>
         </div>
         <div class="col-md-3 col-sm-11 col-xs-12">
           <h3 class="text-center">
-            Busca tu comuna
+            Hecho para Personas
           </h3>
           <p class="text-center">
-            Escribe en el buscador tu comuna</p>
+            Otros sitios entregan información para personas específicas. Nosotros entregamos información específica para <personas class=""></personas></p>
         </div>
 
         <div class="col-md-1 col-sm-1 col-xs-12 numero ">
@@ -57,20 +58,20 @@
         </div>
         <div class="col-md-3 col-sm-11 col-xs-12 ">
           <h3 class="text-center">
-            Conoce el poder de tu voto
+            Búsqueda Fácil
           </h3>
           <p class="text-center">
-            Analiza tu voto</p>
+            Encuentra rápidamente información referente a la circunscripción y distro al cual perteneces. </p>
         </div>
         <div class="col-md-1 col-sm-1 col-xs-12 numero ">
           <div class="numberCircle text-center">3</div>
         </div>
         <div class="col-md-3 col-sm-11 col-xs-12">
           <h3 class="text-center">
-            Decide informado
+            Decide Informado
           </h3>
           <p class="text-center">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quos fugiat dolorem quidem voluptate omnis, odit optio officiis, accusamus
+            Conóce cuánto vale tu voto a través de información real de servicios públicos.
           </p>
         </div>
 

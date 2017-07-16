@@ -1,4 +1,4 @@
 class Comuna < ApplicationRecord
-	belongs_to :distritos
-	
+	belongs_to :distrito
+
 end

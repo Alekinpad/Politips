@@ -22,30 +22,30 @@ ActiveRecord::Schema.define(version: 20170715222416) do
 
   create_table "comunas", force: :cascade do |t|
     t.string   "nombre"
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
-    t.integer  "distritos_id"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.integer  "distrito_id"
     t.float    "valor_voto"
-    t.index ["distritos_id"], name: "index_comunas_on_distritos_id"
+    t.index ["distrito_id"], name: "index_comunas_on_distrito_id"
   end
 
   create_table "diputados", force: :cascade do |t|
     t.string   "candidato"
     t.string   "partido"
     t.string   "pacto"
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
-    t.integer  "distritos_id"
-    t.index ["distritos_id"], name: "index_diputados_on_distritos_id"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.integer  "distrito_id"
+    t.index ["distrito_id"], name: "index_diputados_on_distrito_id"
   end
 
   create_table "distritos", force: :cascade do |t|
     t.integer  "numero_distrito"
-    t.datetime "created_at",          null: false
-    t.datetime "updated_at",          null: false
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
     t.integer  "magnitud_diputado"
-    t.integer  "circunscripcions_id"
-    t.index ["circunscripcions_id"], name: "index_distritos_on_circunscripcions_id"
+    t.integer  "circunscripcion_id"
+    t.index ["circunscripcion_id"], name: "index_distritos_on_circunscripcion_id"
   end
 
   create_table "senadors", force: :cascade do |t|

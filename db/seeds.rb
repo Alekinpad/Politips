@@ -6,6 +6,13 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+
+Circunscripcion.destroy_all
+Distrito.destroy_all
+Senador.destroy_all
+Comuna.destroy_all
+Diputado.destroy_all
+
 require 'json'
 
 data_file = JSON.parse(open("#{Rails.root}/db/data.json").read)
@@ -18,7 +25,6 @@ JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
 end
 
 # Circunscripcion
-Circunscripcion.delete_all
 data_array = circ.uniq
 data_array.each do |array|
 	circ = array.split(",")[0]
@@ -31,7 +37,6 @@ end
 
 # Distrito
 
-Distrito.delete_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
   comuna = data_file[stuff[0]]
   magnitud_diputado = comuna["magnitud_diputado"][0]
@@ -44,46 +49,43 @@ JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
 end
 
 # Senador
-Senador.delete_all
 
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
   comuna = data_file[stuff[0]]
   candidatos = comuna["candidaturas_senador"]
   candidatos.each do |candidato|
   	circ = candidato["circ"]
-  	nombre_candidato  = candidato["candidato"]
-  	partido_candidato  = candidato["partido"]
-  	pacto_candidato  = candidato["pacto"]
+  	nombre_candidato = candidato["candidato"]
+  	partido_candidato = candidato["partido"]
+  	pacto_candidato = candidato["pacto"]
   	circunscripcion_object = Circunscripcion.find_by({circ: circ})
-  	#if not Senador.exists?(:candidato => nombre_candidato)
-	senador = Senador.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
-  	senador.circunscripcion_id = circunscripcion_object.id
-  	senador.save
-  	#end
+  	if not Senador.exists?(:candidato => nombre_candidato)
+    	senador = Senador.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
+    	senador.circunscripcion_id = circunscripcion_object.id
+    	senador.save
+  	end
   end
 end
 
 # Diputado
-Diputado.destroy_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
   comuna = data_file[stuff[0]]
   numero_distrito = comuna["numero_distrito"][0].to_i
   candidatos = comuna["candidaturas_diputados"]
   distrito_object = Distrito.find_by({numero_distrito: numero_distrito})
   candidatos.each do |candidato|
-  	nombre_candidato  = candidato["candidato"]
-  	partido_candidato  = candidato["partido"]
-  	pacto_candidato  = candidato["pacto"]
-  	#if not Diputado.exists?(:candidato => nombre_candidato)
-  	diputado = Diputado.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
-  	diputado.distrito_id = distrito_object.id
-  	diputado.save
-  	#end
+  	nombre_candidato = candidato["candidato"]
+  	partido_candidato = candidato["partido"]
+  	pacto_candidato = candidato["pacto"]
+  	if not Diputado.exists?(:candidato => nombre_candidato)
+    	diputado = Diputado.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
+    	diputado.distrito_id = distrito_object.id
+    	diputado.save
+  	end
   end
 end
 
 # Comunas
-Comuna.delete_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
   comuna = data_file[stuff[0]]
   nombre_comuna = stuff[0]

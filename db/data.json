@@ -4,6 +4,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [2.11],
+    "zscore_voto_sen": [0.37],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -485,6 +489,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.94],
+    "zscore_voto_dip": [2.19],
+    "valor_voto_sen": [2.08],
+    "zscore_voto_sen": [0.29],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -571,6 +579,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [1.7],
+    "zscore_voto_dip": [-5.09],
+    "valor_voto_sen": [0.7],
+    "zscore_voto_sen": [-3.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -635,6 +647,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.78],
+    "zscore_voto_dip": [1.83],
+    "valor_voto_sen": [2.45],
+    "zscore_voto_sen": [1.27],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -970,6 +986,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [1.9],
+    "zscore_voto_dip": [-4.64],
+    "valor_voto_sen": [0.59],
+    "zscore_voto_sen": [-3.66],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -1213,6 +1233,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.91],
+    "zscore_voto_dip": [-0.13],
+    "valor_voto_sen": [1.91],
+    "zscore_voto_sen": [-0.16],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -1354,6 +1378,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.34],
+    "zscore_voto_dip": [0.84],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -1704,6 +1732,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.06],
+    "zscore_voto_dip": [0.21],
+    "valor_voto_sen": [2.16],
+    "zscore_voto_sen": [0.5],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -1917,6 +1949,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.31],
+    "zscore_voto_dip": [-1.47],
+    "valor_voto_sen": [1.24],
+    "zscore_voto_sen": [-1.94],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -1981,6 +2017,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.37],
+    "zscore_voto_dip": [0.91],
+    "valor_voto_sen": [2.08],
+    "zscore_voto_sen": [0.29],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -2298,6 +2338,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.8],
+    "zscore_voto_dip": [-0.37],
+    "valor_voto_sen": [1.34],
+    "zscore_voto_sen": [-1.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -2362,6 +2406,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.28],
+    "zscore_voto_dip": [0.71],
+    "valor_voto_sen": [1.69],
+    "zscore_voto_sen": [-0.75],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -2426,6 +2474,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["1"],
     "nombre_region": ["Arica y Parinacota"],
+    "valor_voto_dip": [4.68],
+    "zscore_voto_dip": [1.61],
+    "valor_voto_sen": [2.32],
+    "zscore_voto_sen": [0.92],
     "candidaturas_senador": [
       {
         "circ": "I",
@@ -2658,6 +2710,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.59],
+    "zscore_voto_dip": [-0.84],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -2744,6 +2800,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.49],
+    "zscore_voto_dip": [-1.07],
+    "valor_voto_sen": [1.61],
+    "zscore_voto_sen": [-0.96],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -2874,6 +2934,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.31],
+    "zscore_voto_dip": [0.77],
+    "valor_voto_sen": [2.6],
+    "zscore_voto_sen": [1.67],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -3366,6 +3430,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -3430,6 +3498,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [2.9],
+    "zscore_voto_dip": [-2.4],
+    "valor_voto_sen": [1.05],
+    "zscore_voto_sen": [-2.44],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -3560,6 +3632,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.46],
+    "zscore_voto_dip": [1.11],
+    "valor_voto_sen": [1.93],
+    "zscore_voto_sen": [-0.11],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -3877,6 +3953,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.3],
+    "zscore_voto_dip": [0.75],
+    "valor_voto_sen": [1.92],
+    "zscore_voto_sen": [-0.14],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -4018,6 +4098,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.42],
+    "zscore_voto_dip": [1.02],
+    "valor_voto_sen": [2.4],
+    "zscore_voto_sen": [1.14],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -4353,6 +4437,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.78],
+    "zscore_voto_dip": [-0.42],
+    "valor_voto_sen": [2.14],
+    "zscore_voto_sen": [0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -4439,6 +4527,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.97],
+    "zscore_voto_dip": [0.01],
+    "valor_voto_sen": [2.64],
+    "zscore_voto_sen": [1.77],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -4931,6 +5023,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["1"],
     "nombre_region": ["Arica y Parinacota"],
+    "valor_voto_dip": [4.22],
+    "zscore_voto_dip": [0.57],
+    "valor_voto_sen": [2.57],
+    "zscore_voto_sen": [1.59],
     "candidaturas_senador": [
       {
         "circ": "I",
@@ -5163,6 +5259,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [4.04],
+    "zscore_voto_dip": [0.17],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -5406,6 +5506,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.29],
+    "zscore_voto_dip": [0.73],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -5756,6 +5860,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [1.84],
+    "zscore_voto_sen": [-0.35],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -5820,6 +5928,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.26],
+    "zscore_voto_dip": [0.66],
+    "valor_voto_sen": [2.2],
+    "zscore_voto_sen": [0.61],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -6066,6 +6178,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.84],
+    "zscore_voto_dip": [1.97],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -6547,6 +6663,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.6],
+    "zscore_voto_dip": [1.43],
+    "valor_voto_sen": [2.4],
+    "zscore_voto_sen": [1.14],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -7028,6 +7148,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [1.88],
+    "zscore_voto_sen": [-0.24],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -7169,6 +7293,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.83],
+    "zscore_voto_dip": [-0.3],
+    "valor_voto_sen": [2.72],
+    "zscore_voto_sen": [1.98],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -7661,6 +7789,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.94],
+    "zscore_voto_dip": [-0.06],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -7898,6 +8030,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.52],
+    "zscore_voto_dip": [1.25],
+    "valor_voto_sen": [2.26],
+    "zscore_voto_sen": [0.77],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -8138,6 +8274,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.64],
+    "zscore_voto_dip": [-0.73],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -8367,6 +8507,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.93],
+    "zscore_voto_dip": [-0.08],
+    "valor_voto_sen": [1.72],
+    "zscore_voto_sen": [-0.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -8508,6 +8652,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.36],
+    "zscore_voto_dip": [0.89],
+    "valor_voto_sen": [2.42],
+    "zscore_voto_sen": [1.19],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -8843,6 +8991,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.74],
+    "zscore_voto_dip": [-0.51],
+    "valor_voto_sen": [2.02],
+    "zscore_voto_sen": [0.13],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -9080,6 +9232,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.74],
+    "zscore_voto_dip": [-0.51],
+    "valor_voto_sen": [2.24],
+    "zscore_voto_sen": [0.71],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -9221,6 +9377,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [2.87],
+    "zscore_voto_dip": [-2.46],
+    "valor_voto_sen": [1.11],
+    "zscore_voto_sen": [-2.28],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -9472,6 +9632,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [2.52],
+    "zscore_voto_sen": [1.45],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -9664,6 +9828,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.93],
+    "zscore_voto_dip": [-0.08],
+    "valor_voto_sen": [1.68],
+    "zscore_voto_sen": [-0.77],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -9794,6 +9962,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [2.88],
+    "zscore_voto_dip": [-2.44],
+    "valor_voto_sen": [1.05],
+    "zscore_voto_sen": [-2.44],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -9924,6 +10096,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.98],
+    "zscore_voto_dip": [0.03],
+    "valor_voto_sen": [2.07],
+    "zscore_voto_sen": [0.26],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -10065,6 +10241,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -10311,6 +10491,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.1],
+    "zscore_voto_dip": [0.3],
+    "valor_voto_sen": [1.92],
+    "zscore_voto_sen": [-0.14],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -10452,6 +10636,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.69],
+    "zscore_voto_dip": [-0.62],
+    "valor_voto_sen": [2.37],
+    "zscore_voto_sen": [1.06],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -10644,6 +10832,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.53],
+    "zscore_voto_dip": [-0.98],
+    "valor_voto_sen": [1.66],
+    "zscore_voto_sen": [-0.83],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -10774,6 +10966,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.78],
+    "zscore_voto_dip": [-0.42],
+    "valor_voto_sen": [1.51],
+    "zscore_voto_sen": [-1.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -10915,6 +11111,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.46],
+    "zscore_voto_dip": [-1.14],
+    "valor_voto_sen": [2.39],
+    "zscore_voto_sen": [1.11],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -11107,6 +11307,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.04],
+    "zscore_voto_dip": [0.17],
+    "valor_voto_sen": [1.95],
+    "zscore_voto_sen": [-0.06],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -11215,6 +11419,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.62],
+    "zscore_voto_dip": [-0.78],
+    "valor_voto_sen": [1.66],
+    "zscore_voto_sen": [-0.83],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -11345,6 +11553,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -11475,6 +11687,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.15],
+    "zscore_voto_dip": [0.41],
+    "valor_voto_sen": [1.83],
+    "zscore_voto_sen": [-0.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -11583,6 +11799,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.18],
+    "zscore_voto_dip": [-1.77],
+    "valor_voto_sen": [2.24],
+    "zscore_voto_sen": [0.71],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -11820,6 +12040,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [2.46],
+    "zscore_voto_sen": [1.3],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -12063,6 +12287,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.96],
+    "zscore_voto_dip": [-0.01],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -12303,6 +12531,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.47],
+    "zscore_voto_dip": [1.13],
+    "valor_voto_sen": [2.05],
+    "zscore_voto_sen": [0.21],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -12516,6 +12748,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.77],
+    "zscore_voto_dip": [-0.44],
+    "valor_voto_sen": [1.72],
+    "zscore_voto_sen": [-0.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -12624,6 +12860,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.4],
+    "zscore_voto_dip": [0.98],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -12974,6 +13214,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.38],
+    "zscore_voto_dip": [0.93],
+    "valor_voto_sen": [1.87],
+    "zscore_voto_sen": [-0.27],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -13225,6 +13469,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [2.2],
+    "zscore_voto_sen": [0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -13454,6 +13702,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.16],
+    "zscore_voto_dip": [-1.81],
+    "valor_voto_sen": [0.96],
+    "zscore_voto_sen": [-2.68],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -13935,6 +14187,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.66],
+    "zscore_voto_dip": [-0.69],
+    "valor_voto_sen": [2.19],
+    "zscore_voto_sen": [0.58],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -14172,6 +14428,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.07],
+    "zscore_voto_dip": [0.23],
+    "valor_voto_sen": [1.93],
+    "zscore_voto_sen": [-0.11],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -14236,6 +14496,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.68],
+    "zscore_voto_dip": [1.61],
+    "valor_voto_sen": [2.56],
+    "zscore_voto_sen": [1.56],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -14571,6 +14835,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [1.78],
+    "zscore_voto_sen": [-0.51],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -14921,6 +15189,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.33],
+    "zscore_voto_dip": [0.82],
+    "valor_voto_sen": [1.57],
+    "zscore_voto_sen": [-1.06],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -15172,6 +15444,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [1.69],
+    "zscore_voto_sen": [-0.75],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -15324,6 +15600,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -15516,6 +15796,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [2.46],
+    "zscore_voto_sen": [1.3],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -15762,6 +16046,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.81],
+    "zscore_voto_dip": [-0.35],
+    "valor_voto_sen": [2.19],
+    "zscore_voto_sen": [0.58],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -15975,6 +16263,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.05],
+    "zscore_voto_dip": [0.19],
+    "valor_voto_sen": [2.07],
+    "zscore_voto_sen": [0.26],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -16061,6 +16353,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.7],
+    "zscore_voto_dip": [-0.6],
+    "valor_voto_sen": [1.78],
+    "zscore_voto_sen": [-0.51],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -16202,6 +16498,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.26],
+    "zscore_voto_dip": [0.66],
+    "valor_voto_sen": [1.6],
+    "zscore_voto_sen": [-0.98],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -16266,6 +16566,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.47],
+    "zscore_voto_dip": [-1.11],
+    "valor_voto_sen": [2.26],
+    "zscore_voto_sen": [0.77],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -16512,6 +16816,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.71],
+    "zscore_voto_dip": [-0.57],
+    "valor_voto_sen": [2.25],
+    "zscore_voto_sen": [0.74],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -16749,6 +17057,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [4.12],
+    "zscore_voto_dip": [0.35],
+    "valor_voto_sen": [2.05],
+    "zscore_voto_sen": [0.21],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -16986,6 +17298,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.57],
+    "zscore_voto_dip": [-0.89],
+    "valor_voto_sen": [1.74],
+    "zscore_voto_sen": [-0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -17127,6 +17443,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [3.92],
+    "zscore_voto_dip": [-0.1],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -17462,6 +17782,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.69],
+    "zscore_voto_dip": [-0.62],
+    "valor_voto_sen": [1.69],
+    "zscore_voto_sen": [-0.75],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -17570,6 +17894,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.27],
+    "zscore_voto_dip": [0.68],
+    "valor_voto_sen": [1.88],
+    "zscore_voto_sen": [-0.24],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -17700,6 +18028,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.24],
+    "zscore_voto_dip": [-1.63],
+    "valor_voto_sen": [1.55],
+    "zscore_voto_sen": [-1.12],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -17830,6 +18162,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [2.13],
+    "zscore_voto_sen": [0.42],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -17916,6 +18252,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.73],
+    "zscore_voto_dip": [1.72],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -18397,6 +18737,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.63],
+    "zscore_voto_dip": [1.49],
+    "valor_voto_sen": [2.34],
+    "zscore_voto_sen": [0.98],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -18878,6 +19222,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.84],
+    "zscore_voto_dip": [-0.28],
+    "valor_voto_sen": [2.18],
+    "zscore_voto_sen": [0.55],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -19115,6 +19463,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [5],
+    "zscore_voto_dip": [2.32],
+    "valor_voto_sen": [2.06],
+    "zscore_voto_sen": [0.23],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -19328,6 +19680,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.58],
+    "zscore_voto_dip": [1.38],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -19568,6 +19924,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.83],
+    "zscore_voto_dip": [-0.3],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -19819,6 +20179,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.57],
+    "zscore_voto_dip": [1.36],
+    "valor_voto_sen": [2.44],
+    "zscore_voto_sen": [1.24],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -20065,6 +20429,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.35],
+    "zscore_voto_dip": [0.86],
+    "valor_voto_sen": [2.28],
+    "zscore_voto_sen": [0.82],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -20400,6 +20768,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.77],
+    "zscore_voto_dip": [-0.44],
+    "valor_voto_sen": [1.81],
+    "zscore_voto_sen": [-0.43],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -20486,6 +20858,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.95],
+    "zscore_voto_dip": [-0.04],
+    "valor_voto_sen": [1.84],
+    "zscore_voto_sen": [-0.35],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -20572,6 +20948,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [1.62],
+    "zscore_voto_sen": [-0.93],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -20713,6 +21093,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.91],
+    "zscore_voto_dip": [-0.13],
+    "valor_voto_sen": [1.49],
+    "zscore_voto_sen": [-1.28],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -20865,6 +21249,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.57],
+    "zscore_voto_dip": [1.36],
+    "valor_voto_sen": [2.37],
+    "zscore_voto_sen": [1.06],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -21078,6 +21466,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["1"],
     "nombre_region": ["Arica y Parinacota"],
+    "valor_voto_dip": [4.26],
+    "zscore_voto_dip": [0.66],
+    "valor_voto_sen": [2.7],
+    "zscore_voto_sen": [1.93],
     "candidaturas_senador": [
       {
         "circ": "I",
@@ -21310,6 +21702,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.46],
+    "zscore_voto_dip": [-1.14],
+    "valor_voto_sen": [2.44],
+    "zscore_voto_sen": [1.24],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -21556,6 +21952,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.86],
+    "zscore_voto_dip": [-0.24],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -21664,6 +22064,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.21],
+    "zscore_voto_dip": [-1.7],
+    "valor_voto_sen": [2.03],
+    "zscore_voto_sen": [0.16],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -21856,6 +22260,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.97],
+    "zscore_voto_dip": [0.01],
+    "valor_voto_sen": [2.64],
+    "zscore_voto_sen": [1.77],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -22348,6 +22756,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.76],
+    "zscore_voto_dip": [-0.46],
+    "valor_voto_sen": [1.63],
+    "zscore_voto_sen": [-0.9],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -22489,6 +22901,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.59],
+    "zscore_voto_dip": [-0.84],
+    "valor_voto_sen": [2.17],
+    "zscore_voto_sen": [0.53],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -22721,262 +23137,15 @@
       }
     ]
   },
-  "Hualpén": {
-    "magnitud_senador": [5],
-    "magnitud_diputado": [8],
-    "numero_distrito": ["20"],
-    "nombre_region": ["Biobío"],
-    "candidaturas_senador": [],
-    "candidaturas_diputados": [
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Jorge Ulloa",
-        "partido": "UDI",
-        "pacto": "Chile Vamos",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Enrique van Rysselberghe",
-        "partido": "UDI",
-        "pacto": "Chile Vamos",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Gonzalo Arroyo",
-        "partido": "Evópoli",
-        "pacto": "Chile Vamos",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Francisca Parodi​",
-        "partido": "Evópoli",
-        "pacto": "Chile Vamos",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Clemira Pacheco",
-        "partido": "PS",
-        "pacto": "Nueva Mayoría",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Cristián Campos",
-        "partido": "PPD",
-        "pacto": "Nueva Mayoría",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Natalia Riffo",
-        "partido": "IX",
-        "pacto": "Nueva Mayoría",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Claudia Monje",
-        "partido": "RD",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Loreto Muñoz",
-        "partido": "PH",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Félix González",
-        "partido": "PEV",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Raquel Rebolledo",
-        "partido": "PEV",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Paula Opazo",
-        "partido": "PEV",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Cristina Yáñez",
-        "partido": "PEV",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Mauricio Pérez",
-        "partido": "IGUAL",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Gonzalo Reyes",
-        "partido": "IGUAL",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Cristián Cuevas (ND)",
-        "partido": "Otros",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Camilo Riffo (MA)",
-        "partido": "Otros",
-        "pacto": "Frente Amplio",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "José Miguel Ortiz",
-        "partido": "PDC",
-        "pacto": "Fuera de Pacto",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Alejandra Flores",
-        "partido": "Amplitud",
-        "pacto": "Sentido Futuro",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "María González",
-        "partido": "Amplitud",
-        "pacto": "Sentido Futuro",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Miguel Pezo",
-        "partido": "Amplitud",
-        "pacto": "Sentido Futuro",
-        "diputado": 1,
-        "senador": 0
-      },
-      {
-        "circ": "X",
-        "region": "Bio-Bio",
-        "dist": 20,
-        "capitaldist": "Concepción",
-        "candidato": "Mauricio Salgado",
-        "partido": "Amplitud",
-        "pacto": "Sentido Futuro",
-        "diputado": 1,
-        "senador": 0
-      }
-    ]
-  },
   "Hualqui": {
     "magnitud_senador": [5],
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.12],
+    "zscore_voto_dip": [0.35],
+    "valor_voto_sen": [1.7],
+    "zscore_voto_sen": [-0.72],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -23228,6 +23397,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [4.39],
+    "zscore_voto_dip": [0.95],
+    "valor_voto_sen": [2.64],
+    "zscore_voto_sen": [1.77],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -23471,6 +23644,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.23],
+    "zscore_voto_dip": [0.59],
+    "valor_voto_sen": [2.25],
+    "zscore_voto_sen": [0.74],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -23806,6 +23983,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.27],
+    "zscore_voto_dip": [0.68],
+    "valor_voto_sen": [2.11],
+    "zscore_voto_sen": [0.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -24035,6 +24216,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [1.88],
+    "zscore_voto_sen": [-0.24],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -24385,6 +24570,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.2],
+    "zscore_voto_dip": [0.53],
+    "valor_voto_sen": [2.3],
+    "zscore_voto_sen": [0.87],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -24614,6 +24803,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [4.28],
+    "zscore_voto_dip": [0.71],
+    "valor_voto_sen": [2.5],
+    "zscore_voto_sen": [1.4],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -24857,6 +25050,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.8],
+    "zscore_voto_dip": [-0.37],
+    "valor_voto_sen": [1.99],
+    "zscore_voto_sen": [0.05],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -24943,6 +25140,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.35],
+    "zscore_voto_dip": [0.86],
+    "valor_voto_sen": [2.41],
+    "zscore_voto_sen": [1.16],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -25424,6 +25625,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.48],
+    "zscore_voto_dip": [-1.09],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -25905,6 +26110,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -26397,6 +26606,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.01],
+    "zscore_voto_dip": [0.1],
+    "valor_voto_sen": [1.83],
+    "zscore_voto_sen": [-0.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -26527,6 +26740,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.21],
+    "zscore_voto_dip": [0.55],
+    "valor_voto_sen": [2.55],
+    "zscore_voto_sen": [1.53],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -27019,6 +27236,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.86],
+    "zscore_voto_dip": [-0.24],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -27160,6 +27381,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["12"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.62],
+    "zscore_voto_dip": [-0.78],
+    "valor_voto_sen": [1.8],
+    "zscore_voto_sen": [-0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -27257,6 +27482,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.66],
+    "zscore_voto_dip": [1.56],
+    "valor_voto_sen": [1.74],
+    "zscore_voto_sen": [-0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -27618,6 +27847,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -27968,6 +28201,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.39],
+    "zscore_voto_dip": [0.95],
+    "valor_voto_sen": [2.53],
+    "zscore_voto_sen": [1.48],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -28460,6 +28697,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["12"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.08],
+    "zscore_voto_dip": [0.26],
+    "valor_voto_sen": [1.52],
+    "zscore_voto_sen": [-1.2],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -28557,6 +28798,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["11"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.92],
+    "zscore_voto_dip": [-0.1],
+    "valor_voto_sen": [1.78],
+    "zscore_voto_sen": [-0.51],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -28764,6 +29009,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.73],
+    "zscore_voto_dip": [1.72],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29114,6 +29363,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.31],
+    "zscore_voto_dip": [-1.47],
+    "valor_voto_sen": [1.51],
+    "zscore_voto_sen": [-1.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29266,6 +29519,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.95],
+    "zscore_voto_dip": [-0.04],
+    "valor_voto_sen": [1.51],
+    "zscore_voto_sen": [-1.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29418,6 +29675,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.23],
+    "zscore_voto_dip": [-1.65],
+    "valor_voto_sen": [2.29],
+    "zscore_voto_sen": [0.84],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -29610,6 +29871,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.88],
+    "zscore_voto_dip": [-0.19],
+    "valor_voto_sen": [1.66],
+    "zscore_voto_sen": [-0.83],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29674,6 +29939,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.05],
+    "zscore_voto_dip": [0.19],
+    "valor_voto_sen": [1.65],
+    "zscore_voto_sen": [-0.85],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29738,6 +30007,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.27],
+    "zscore_voto_dip": [0.68],
+    "valor_voto_sen": [2.07],
+    "zscore_voto_sen": [0.26],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -29978,6 +30251,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.84],
+    "zscore_voto_dip": [-0.28],
+    "valor_voto_sen": [1.5],
+    "zscore_voto_sen": [-1.25],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -30130,6 +30407,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.53],
+    "zscore_voto_dip": [-0.98],
+    "valor_voto_sen": [2.05],
+    "zscore_voto_sen": [0.21],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -30271,6 +30552,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["11"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.84],
+    "zscore_voto_dip": [-0.28],
+    "valor_voto_sen": [1.44],
+    "zscore_voto_sen": [-1.41],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -30478,6 +30763,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.24],
+    "zscore_voto_dip": [0.62],
+    "valor_voto_sen": [2.12],
+    "zscore_voto_sen": [0.39],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -30691,6 +30980,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.32],
+    "zscore_voto_dip": [0.8],
+    "valor_voto_sen": [1.68],
+    "zscore_voto_sen": [-0.77],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -30755,6 +31048,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.8],
+    "zscore_voto_dip": [-0.37],
+    "valor_voto_sen": [2.22],
+    "zscore_voto_sen": [0.66],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -30992,6 +31289,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.47],
+    "zscore_voto_dip": [1.13],
+    "valor_voto_sen": [2.53],
+    "zscore_voto_sen": [1.48],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -31484,6 +31785,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.4],
+    "zscore_voto_dip": [-1.27],
+    "valor_voto_sen": [2.13],
+    "zscore_voto_sen": [0.42],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -31721,6 +32026,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.81],
+    "zscore_voto_dip": [-0.35],
+    "valor_voto_sen": [1.99],
+    "zscore_voto_sen": [0.05],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -31862,6 +32171,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.16],
+    "zscore_voto_dip": [0.44],
+    "valor_voto_sen": [2.7],
+    "zscore_voto_sen": [1.93],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -32354,6 +32667,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.88],
+    "zscore_voto_dip": [-0.19],
+    "valor_voto_sen": [1.88],
+    "zscore_voto_sen": [-0.24],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -32440,6 +32757,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["11"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.01],
+    "zscore_voto_dip": [0.1],
+    "valor_voto_sen": [1.59],
+    "zscore_voto_sen": [-1.01],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -32647,6 +32968,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.71],
+    "zscore_voto_dip": [1.67],
+    "valor_voto_sen": [1.8],
+    "zscore_voto_sen": [-0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -32777,6 +33102,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.03],
+    "zscore_voto_dip": [0.14],
+    "valor_voto_sen": [2.02],
+    "zscore_voto_sen": [0.13],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -33006,6 +33335,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [2.02],
+    "zscore_voto_sen": [0.13],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -33147,6 +33480,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.44],
+    "zscore_voto_dip": [-1.18],
+    "valor_voto_sen": [2.49],
+    "zscore_voto_sen": [1.37],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -33393,6 +33730,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.81],
+    "zscore_voto_dip": [-0.35],
+    "valor_voto_sen": [2.19],
+    "zscore_voto_sen": [0.58],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -33630,6 +33971,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [1.92],
+    "zscore_voto_sen": [-0.14],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -33843,6 +34188,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -33907,6 +34256,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.07],
+    "zscore_voto_dip": [0.23],
+    "valor_voto_sen": [2.59],
+    "zscore_voto_sen": [1.64],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -34399,6 +34752,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -34463,6 +34820,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.9],
+    "zscore_voto_dip": [-0.15],
+    "valor_voto_sen": [1.59],
+    "zscore_voto_sen": [-1.01],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -34615,6 +34976,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.8],
+    "zscore_voto_dip": [-0.37],
+    "valor_voto_sen": [1.75],
+    "zscore_voto_sen": [-0.59],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -34701,6 +35066,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.1],
+    "zscore_voto_dip": [0.3],
+    "valor_voto_sen": [2.25],
+    "zscore_voto_sen": [0.74],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -34914,6 +35283,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.57],
+    "zscore_voto_dip": [1.36],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -35264,6 +35637,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [1.5],
+    "zscore_voto_sen": [-1.25],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -35328,6 +35705,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.34],
+    "zscore_voto_dip": [0.84],
+    "valor_voto_sen": [2.19],
+    "zscore_voto_sen": [0.58],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -35541,6 +35922,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.68],
+    "zscore_voto_dip": [-0.64],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -35649,6 +36034,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.6],
+    "zscore_voto_dip": [1.43],
+    "valor_voto_sen": [1.76],
+    "zscore_voto_sen": [-0.56],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36010,6 +36399,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.67],
+    "zscore_voto_dip": [-0.66],
+    "valor_voto_sen": [1.42],
+    "zscore_voto_sen": [-1.46],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36162,6 +36555,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.54],
+    "zscore_voto_dip": [1.29],
+    "valor_voto_sen": [2.25],
+    "zscore_voto_sen": [0.74],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36402,6 +36799,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.14],
+    "zscore_voto_dip": [0.39],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36510,6 +36911,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.76],
+    "zscore_voto_dip": [-0.46],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36651,6 +37056,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.11],
+    "zscore_voto_dip": [0.32],
+    "valor_voto_sen": [1.87],
+    "zscore_voto_sen": [-0.27],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -36968,6 +37377,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [1.94],
+    "zscore_voto_sen": [-0.08],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -37054,6 +37467,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.99],
+    "zscore_voto_dip": [0.05],
+    "valor_voto_sen": [1.67],
+    "zscore_voto_sen": [-0.8],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -37206,6 +37623,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.79],
+    "zscore_voto_dip": [-0.39],
+    "valor_voto_sen": [2.27],
+    "zscore_voto_sen": [0.79],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -37443,6 +37864,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4],
+    "zscore_voto_dip": [0.08],
+    "valor_voto_sen": [1.76],
+    "zscore_voto_sen": [-0.56],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -37584,6 +38009,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.45],
+    "zscore_voto_dip": [1.09],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -37901,6 +38330,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.1],
+    "zscore_voto_dip": [0.3],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -38114,6 +38547,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.11],
+    "zscore_voto_dip": [0.32],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -38200,6 +38637,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [4.36],
+    "zscore_voto_dip": [0.89],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -38437,6 +38878,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.48],
+    "zscore_voto_dip": [1.16],
+    "valor_voto_sen": [1.75],
+    "zscore_voto_sen": [-0.59],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -38787,6 +39232,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.94],
+    "zscore_voto_dip": [-0.06],
+    "valor_voto_sen": [1.99],
+    "zscore_voto_sen": [0.05],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -38895,6 +39344,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.95],
+    "zscore_voto_dip": [-0.04],
+    "valor_voto_sen": [1.73],
+    "zscore_voto_sen": [-0.64],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -38959,6 +39412,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.99],
+    "zscore_voto_dip": [0.05],
+    "valor_voto_sen": [1.82],
+    "zscore_voto_sen": [-0.4],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39023,6 +39480,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.97],
+    "zscore_voto_dip": [0.01],
+    "valor_voto_sen": [2.09],
+    "zscore_voto_sen": [0.31],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39164,6 +39625,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [4.22],
+    "zscore_voto_dip": [0.57],
+    "valor_voto_sen": [1.82],
+    "zscore_voto_sen": [-0.4],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39228,6 +39693,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39369,6 +39838,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.97],
+    "zscore_voto_dip": [0.01],
+    "valor_voto_sen": [1.85],
+    "zscore_voto_sen": [-0.32],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39433,6 +39906,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.58],
+    "zscore_voto_dip": [-0.87],
+    "valor_voto_sen": [1.49],
+    "zscore_voto_sen": [-1.28],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39563,6 +40040,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.54],
+    "zscore_voto_dip": [-0.96],
+    "valor_voto_sen": [1.7],
+    "zscore_voto_sen": [-0.72],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -39693,6 +40174,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.04],
+    "zscore_voto_dip": [0.17],
+    "valor_voto_sen": [2.66],
+    "zscore_voto_sen": [1.83],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -40185,6 +40670,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.51],
+    "zscore_voto_dip": [1.22],
+    "valor_voto_sen": [2.37],
+    "zscore_voto_sen": [1.06],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -40431,6 +40920,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.17],
+    "zscore_voto_dip": [0.46],
+    "valor_voto_sen": [1.83],
+    "zscore_voto_sen": [-0.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -40792,6 +41285,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.18],
+    "zscore_voto_dip": [-1.77],
+    "valor_voto_sen": [1.93],
+    "zscore_voto_sen": [-0.11],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -40984,6 +41481,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [1.85],
+    "zscore_voto_sen": [-0.32],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -41092,6 +41593,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -41409,6 +41914,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.54],
+    "zscore_voto_dip": [1.29],
+    "valor_voto_sen": [2.61],
+    "zscore_voto_sen": [1.69],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -41901,6 +42410,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.3],
+    "zscore_voto_dip": [0.75],
+    "valor_voto_sen": [1.48],
+    "zscore_voto_sen": [-1.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -41987,6 +42500,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [3.86],
+    "zscore_voto_dip": [-0.24],
+    "valor_voto_sen": [1.56],
+    "zscore_voto_sen": [-1.09],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -42337,6 +42854,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.08],
+    "zscore_voto_dip": [-1.99],
+    "valor_voto_sen": [1.42],
+    "zscore_voto_sen": [-1.46],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -42423,6 +42944,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [],
+    "zscore_voto_dip": [],
+    "valor_voto_sen": [],
+    "zscore_voto_sen": [],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -42669,6 +43194,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [3.8],
+    "zscore_voto_dip": [-0.37],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43019,6 +43548,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [4.03],
+    "zscore_voto_dip": [0.14],
+    "valor_voto_sen": [1.55],
+    "zscore_voto_sen": [-1.12],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43171,6 +43704,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.71],
+    "zscore_voto_dip": [-0.57],
+    "valor_voto_sen": [1.98],
+    "zscore_voto_sen": [0.02],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43257,6 +43794,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.84],
+    "zscore_voto_dip": [-0.28],
+    "valor_voto_sen": [1.7],
+    "zscore_voto_sen": [-0.72],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43398,6 +43939,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.73],
+    "zscore_voto_dip": [-0.53],
+    "valor_voto_sen": [2.13],
+    "zscore_voto_sen": [0.42],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43539,6 +44084,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.88],
+    "zscore_voto_dip": [-0.19],
+    "valor_voto_sen": [1.65],
+    "zscore_voto_sen": [-0.85],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -43691,6 +44240,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.07],
+    "zscore_voto_dip": [0.23],
+    "valor_voto_sen": [2.51],
+    "zscore_voto_sen": [1.43],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -44183,6 +44736,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.88],
+    "zscore_voto_dip": [-0.19],
+    "valor_voto_sen": [2.17],
+    "zscore_voto_sen": [0.53],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -44675,6 +45232,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.96],
+    "zscore_voto_dip": [-0.01],
+    "valor_voto_sen": [1.98],
+    "zscore_voto_sen": [0.02],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -44816,6 +45377,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.3],
+    "zscore_voto_dip": [-1.5],
+    "valor_voto_sen": [2.04],
+    "zscore_voto_sen": [0.18],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -45053,6 +45618,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.76],
+    "zscore_voto_dip": [1.79],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -45183,6 +45752,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.97],
+    "zscore_voto_dip": [0.01],
+    "valor_voto_sen": [2.27],
+    "zscore_voto_sen": [0.79],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -45420,6 +45993,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.69],
+    "zscore_voto_dip": [-0.62],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -45657,6 +46234,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.62],
+    "zscore_voto_dip": [-0.78],
+    "valor_voto_sen": [1.57],
+    "zscore_voto_sen": [-1.06],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -45787,6 +46368,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [2.12],
+    "zscore_voto_sen": [0.39],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -45873,6 +46458,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["11"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.05],
+    "zscore_voto_dip": [0.19],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -46080,6 +46669,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [2.2],
+    "zscore_voto_sen": [0.61],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -46317,6 +46910,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.89],
+    "zscore_voto_dip": [-0.17],
+    "valor_voto_sen": [1.56],
+    "zscore_voto_sen": [-1.09],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -46568,6 +47165,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.72],
+    "zscore_voto_dip": [-0.55],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -46709,6 +47310,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.12],
+    "zscore_voto_dip": [0.35],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -46922,6 +47527,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.12],
+    "zscore_voto_dip": [0.35],
+    "valor_voto_sen": [2.53],
+    "zscore_voto_sen": [1.48],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -47414,6 +48023,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.98],
+    "zscore_voto_dip": [0.03],
+    "valor_voto_sen": [2.05],
+    "zscore_voto_sen": [0.21],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -47555,6 +48168,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [4.2],
+    "zscore_voto_dip": [0.53],
+    "valor_voto_sen": [2.57],
+    "zscore_voto_sen": [1.59],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -47798,6 +48415,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.68],
+    "zscore_voto_dip": [-0.64],
+    "valor_voto_sen": [1.94],
+    "zscore_voto_sen": [-0.08],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -47939,6 +48560,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.9],
+    "zscore_voto_dip": [-0.15],
+    "valor_voto_sen": [2.14],
+    "zscore_voto_sen": [0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48080,6 +48705,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.59],
+    "zscore_voto_dip": [-0.84],
+    "valor_voto_sen": [1.68],
+    "zscore_voto_sen": [-0.77],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48210,6 +48839,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["12"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.73],
+    "zscore_voto_dip": [-0.53],
+    "valor_voto_sen": [1.7],
+    "zscore_voto_sen": [-0.72],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48307,6 +48940,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.19],
+    "zscore_voto_dip": [0.5],
+    "valor_voto_sen": [2.46],
+    "zscore_voto_sen": [1.3],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -48553,6 +49190,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.06],
+    "zscore_voto_dip": [0.21],
+    "valor_voto_sen": [2.14],
+    "zscore_voto_sen": [0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48694,6 +49335,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [1.32],
+    "zscore_voto_sen": [-1.73],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48824,6 +49469,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [1.74],
+    "zscore_voto_sen": [-0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -48888,6 +49537,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["2"],
     "nombre_region": ["Tarapacá"],
+    "valor_voto_dip": [4.33],
+    "zscore_voto_dip": [0.82],
+    "valor_voto_sen": [2.63],
+    "zscore_voto_sen": [1.75],
     "candidaturas_senador": [
       {
         "circ": "II",
@@ -49131,6 +49784,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.89],
+    "zscore_voto_dip": [-0.17],
+    "valor_voto_sen": [1.48],
+    "zscore_voto_sen": [-1.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -49195,6 +49852,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.63],
+    "zscore_voto_dip": [-0.75],
+    "valor_voto_sen": [1.62],
+    "zscore_voto_sen": [-0.93],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -49556,6 +50217,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.98],
+    "zscore_voto_dip": [0.03],
+    "valor_voto_sen": [2.56],
+    "zscore_voto_sen": [1.56],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -50048,6 +50713,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.64],
+    "zscore_voto_dip": [-0.73],
+    "valor_voto_sen": [2.34],
+    "zscore_voto_sen": [0.98],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -50294,6 +50963,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.3],
+    "zscore_voto_dip": [0.75],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -50534,6 +51207,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["12"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.05],
+    "zscore_voto_dip": [0.19],
+    "valor_voto_sen": [1.74],
+    "zscore_voto_sen": [-0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -50631,6 +51308,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.42],
+    "zscore_voto_dip": [1.02],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -50772,6 +51453,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.96],
+    "zscore_voto_dip": [-0.01],
+    "valor_voto_sen": [1.8],
+    "zscore_voto_sen": [-0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -50858,6 +51543,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.06],
+    "zscore_voto_dip": [0.21],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -50944,6 +51633,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.99],
+    "zscore_voto_dip": [0.05],
+    "valor_voto_sen": [2.31],
+    "zscore_voto_sen": [0.9],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -51085,6 +51778,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.08],
+    "zscore_voto_dip": [0.26],
+    "valor_voto_sen": [1.69],
+    "zscore_voto_sen": [-0.75],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -51435,6 +52132,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [4.18],
+    "zscore_voto_dip": [0.48],
+    "valor_voto_sen": [1.73],
+    "zscore_voto_sen": [-0.64],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -51499,6 +52200,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.12],
+    "zscore_voto_dip": [0.35],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -51640,6 +52345,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.48],
+    "zscore_voto_dip": [1.16],
+    "valor_voto_sen": [2.18],
+    "zscore_voto_sen": [0.55],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -51853,6 +52562,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.14],
+    "zscore_voto_dip": [0.39],
+    "valor_voto_sen": [1.88],
+    "zscore_voto_sen": [-0.24],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -51939,6 +52652,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.17],
+    "zscore_voto_dip": [0.46],
+    "valor_voto_sen": [2.7],
+    "zscore_voto_sen": [1.93],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -52431,6 +53148,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["1"],
     "nombre_region": ["Arica y Parinacota"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [2.42],
+    "zscore_voto_sen": [1.19],
     "candidaturas_senador": [
       {
         "circ": "I",
@@ -52663,6 +53384,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.96],
+    "zscore_voto_dip": [-0.01],
+    "valor_voto_sen": [1.85],
+    "zscore_voto_sen": [-0.32],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -52749,6 +53474,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.94],
+    "zscore_voto_dip": [-0.06],
+    "valor_voto_sen": [1.72],
+    "zscore_voto_sen": [-0.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -52890,6 +53619,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.07],
+    "zscore_voto_dip": [0.23],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53031,6 +53764,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.11],
+    "zscore_voto_dip": [0.32],
+    "valor_voto_sen": [1.97],
+    "zscore_voto_sen": [0],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53172,6 +53909,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.78],
+    "zscore_voto_dip": [-0.42],
+    "valor_voto_sen": [1.67],
+    "zscore_voto_sen": [-0.8],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53236,6 +53977,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.33],
+    "zscore_voto_dip": [0.82],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53476,6 +54221,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.98],
+    "zscore_voto_dip": [0.03],
+    "valor_voto_sen": [1.78],
+    "zscore_voto_sen": [-0.51],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53540,6 +54289,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.37],
+    "zscore_voto_dip": [-1.34],
+    "valor_voto_sen": [1.47],
+    "zscore_voto_sen": [-1.33],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -53670,6 +54423,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.34],
+    "zscore_voto_dip": [0.84],
+    "valor_voto_sen": [2.58],
+    "zscore_voto_sen": [1.61],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -54162,6 +54919,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.59],
+    "zscore_voto_dip": [1.4],
+    "valor_voto_sen": [2.62],
+    "zscore_voto_sen": [1.72],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -54654,6 +55415,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["26"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.08],
+    "zscore_voto_dip": [0.26],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -54795,6 +55560,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.76],
+    "zscore_voto_dip": [-0.46],
+    "valor_voto_sen": [1.8],
+    "zscore_voto_sen": [-0.45],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -54903,6 +55672,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.17],
+    "zscore_voto_dip": [0.46],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -55132,6 +55905,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.17],
+    "zscore_voto_dip": [0.46],
+    "valor_voto_sen": [2.52],
+    "zscore_voto_sen": [1.45],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -55624,6 +56401,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.51],
+    "zscore_voto_dip": [-1.02],
+    "valor_voto_sen": [1.53],
+    "zscore_voto_sen": [-1.17],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -55754,6 +56535,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.07],
+    "zscore_voto_dip": [0.23],
+    "valor_voto_sen": [2.16],
+    "zscore_voto_sen": [0.5],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -55862,6 +56647,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [1.61],
+    "zscore_voto_sen": [-0.96],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -55992,6 +56781,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.89],
+    "zscore_voto_dip": [-0.17],
+    "valor_voto_sen": [2.13],
+    "zscore_voto_sen": [0.42],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -56229,6 +57022,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.08],
+    "zscore_voto_dip": [0.26],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -56458,6 +57255,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.26],
+    "zscore_voto_dip": [0.66],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -56671,6 +57472,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["9"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.29],
+    "zscore_voto_dip": [0.73],
+    "valor_voto_sen": [2.18],
+    "zscore_voto_sen": [0.55],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -56900,6 +57705,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.74],
+    "zscore_voto_dip": [-0.51],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -57008,6 +57817,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["15"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.51],
+    "zscore_voto_dip": [-1.02],
+    "valor_voto_sen": [1.76],
+    "zscore_voto_sen": [-0.56],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -57116,6 +57929,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [2],
+    "zscore_voto_sen": [0.08],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -57353,6 +58170,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.86],
+    "zscore_voto_dip": [-0.24],
+    "valor_voto_sen": [2.67],
+    "zscore_voto_sen": [1.85],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -57845,6 +58666,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [4.14],
+    "zscore_voto_dip": [0.39],
+    "valor_voto_sen": [1.46],
+    "zscore_voto_sen": [-1.36],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -57997,6 +58822,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.81],
+    "zscore_voto_dip": [-0.35],
+    "valor_voto_sen": [2.23],
+    "zscore_voto_sen": [0.69],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -58234,6 +59063,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [3.9],
+    "zscore_voto_dip": [-0.15],
+    "valor_voto_sen": [1.54],
+    "zscore_voto_sen": [-1.14],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -58584,6 +59417,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.49],
+    "zscore_voto_dip": [-1.07],
+    "valor_voto_sen": [2.38],
+    "zscore_voto_sen": [1.08],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -58776,6 +59613,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.04],
+    "zscore_voto_dip": [0.17],
+    "valor_voto_sen": [1.72],
+    "zscore_voto_sen": [-0.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -58862,6 +59703,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.71],
+    "zscore_voto_dip": [-0.57],
+    "valor_voto_sen": [1.72],
+    "zscore_voto_sen": [-0.67],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -58926,6 +59771,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.76],
+    "zscore_voto_dip": [-0.46],
+    "valor_voto_sen": [2.02],
+    "zscore_voto_sen": [0.13],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -59163,6 +60012,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.32],
+    "zscore_voto_dip": [0.8],
+    "valor_voto_sen": [2.3],
+    "zscore_voto_sen": [0.87],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -59409,6 +60262,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.87],
+    "zscore_voto_dip": [-0.22],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -59646,6 +60503,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.28],
+    "zscore_voto_dip": [0.71],
+    "valor_voto_sen": [1.84],
+    "zscore_voto_sen": [-0.35],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -59996,6 +60857,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.8],
+    "zscore_voto_dip": [1.88],
+    "valor_voto_sen": [2.12],
+    "zscore_voto_sen": [0.39],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -60477,6 +61342,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.14],
+    "zscore_voto_dip": [0.39],
+    "valor_voto_sen": [2.22],
+    "zscore_voto_sen": [0.66],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -60563,6 +61432,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.66],
+    "zscore_voto_dip": [-0.69],
+    "valor_voto_sen": [1.74],
+    "zscore_voto_sen": [-0.61],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -60693,6 +61566,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.88],
+    "zscore_voto_dip": [-0.19],
+    "valor_voto_sen": [2.29],
+    "zscore_voto_sen": [0.84],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -60930,6 +61807,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.89],
+    "zscore_voto_dip": [-0.17],
+    "valor_voto_sen": [2.57],
+    "zscore_voto_sen": [1.59],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -61422,6 +62303,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.56],
+    "zscore_voto_dip": [-0.91],
+    "valor_voto_sen": [1.54],
+    "zscore_voto_sen": [-1.14],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -61552,6 +62437,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.93],
+    "zscore_voto_dip": [-0.08],
+    "valor_voto_sen": [2.52],
+    "zscore_voto_sen": [1.45],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -62044,6 +62933,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.35],
+    "zscore_voto_dip": [0.86],
+    "valor_voto_sen": [2.28],
+    "zscore_voto_sen": [0.82],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -62185,6 +63078,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [4.08],
+    "zscore_voto_dip": [0.26],
+    "valor_voto_sen": [1.71],
+    "zscore_voto_sen": [-0.69],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -62249,6 +63146,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.78],
+    "zscore_voto_dip": [-0.42],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -62379,6 +63280,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.35],
+    "zscore_voto_dip": [-1.38],
+    "valor_voto_sen": [2.21],
+    "zscore_voto_sen": [0.63],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -62616,6 +63521,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.4],
+    "zscore_voto_dip": [0.98],
+    "valor_voto_sen": [1.77],
+    "zscore_voto_sen": [-0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -62977,6 +63886,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["12"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.9],
+    "zscore_voto_dip": [-0.15],
+    "valor_voto_sen": [1.78],
+    "zscore_voto_sen": [-0.51],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63074,6 +63987,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [3.99],
+    "zscore_voto_dip": [0.05],
+    "valor_voto_sen": [1.5],
+    "zscore_voto_sen": [-1.25],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63160,6 +64077,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.7],
+    "zscore_voto_dip": [1.65],
+    "valor_voto_sen": [1.85],
+    "zscore_voto_sen": [-0.32],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63290,6 +64211,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.54],
+    "zscore_voto_dip": [-0.96],
+    "valor_voto_sen": [1.41],
+    "zscore_voto_sen": [-1.49],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63420,6 +64345,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["25"],
     "nombre_region": ["Los Lagos"],
+    "valor_voto_dip": [4.06],
+    "zscore_voto_dip": [0.21],
+    "valor_voto_sen": [1.41],
+    "zscore_voto_sen": [-1.49],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63506,6 +64435,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.31],
+    "zscore_voto_dip": [0.77],
+    "valor_voto_sen": [2],
+    "zscore_voto_sen": [0.08],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63592,6 +64525,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.87],
+    "zscore_voto_dip": [2.03],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -63909,6 +64846,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.25],
+    "zscore_voto_dip": [-1.61],
+    "valor_voto_sen": [1.19],
+    "zscore_voto_sen": [-2.07],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64160,6 +65101,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [2.73],
+    "zscore_voto_dip": [-2.78],
+    "valor_voto_sen": [1.05],
+    "zscore_voto_sen": [-2.44],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -64397,6 +65342,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["13"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.31],
+    "zscore_voto_dip": [0.77],
+    "valor_voto_sen": [1.83],
+    "zscore_voto_sen": [-0.37],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64527,6 +65476,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.78],
+    "zscore_voto_dip": [-0.42],
+    "valor_voto_sen": [1.62],
+    "zscore_voto_sen": [-0.93],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64591,6 +65544,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [4.31],
+    "zscore_voto_dip": [0.77],
+    "valor_voto_sen": [2.1],
+    "zscore_voto_sen": [0.34],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64732,6 +65689,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.23],
+    "zscore_voto_dip": [0.59],
+    "valor_voto_sen": [1.66],
+    "zscore_voto_sen": [-0.83],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64796,6 +65757,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["16"],
     "nombre_region": ["O'Higgins"],
+    "valor_voto_dip": [3.86],
+    "zscore_voto_dip": [-0.24],
+    "valor_voto_sen": [2.04],
+    "zscore_voto_sen": [0.18],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -64937,6 +65902,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.21],
+    "zscore_voto_dip": [0.55],
+    "valor_voto_sen": [1.9],
+    "zscore_voto_sen": [-0.19],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -65188,6 +66157,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.66],
+    "zscore_voto_dip": [-0.69],
+    "valor_voto_sen": [2.56],
+    "zscore_voto_sen": [1.56],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -65680,6 +66653,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["10"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.1],
+    "zscore_voto_dip": [0.3],
+    "valor_voto_sen": [2.35],
+    "zscore_voto_sen": [1],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -66041,6 +67018,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.13],
+    "zscore_voto_dip": [0.37],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -66522,6 +67503,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [4.23],
+    "zscore_voto_dip": [0.59],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -66839,6 +67824,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["14"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.85],
+    "zscore_voto_dip": [-0.26],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -66925,6 +67914,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.68],
+    "zscore_voto_dip": [-0.64],
+    "valor_voto_sen": [2.13],
+    "zscore_voto_sen": [0.42],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -67162,6 +68155,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.45],
+    "zscore_voto_dip": [1.09],
+    "valor_voto_sen": [1.81],
+    "zscore_voto_sen": [-0.43],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -67413,6 +68410,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [3.93],
+    "zscore_voto_dip": [-0.08],
+    "valor_voto_sen": [1.86],
+    "zscore_voto_sen": [-0.3],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -67730,6 +68731,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [2.2],
+    "zscore_voto_sen": [0.61],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -67976,6 +68981,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [4.05],
+    "zscore_voto_dip": [0.19],
+    "valor_voto_sen": [2.08],
+    "zscore_voto_sen": [0.29],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -68213,6 +69222,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.45],
+    "zscore_voto_dip": [1.09],
+    "valor_voto_sen": [2.36],
+    "zscore_voto_sen": [1.03],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -68459,6 +69472,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.66],
+    "zscore_voto_dip": [1.56],
+    "valor_voto_sen": [2.46],
+    "zscore_voto_sen": [1.3],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -68794,6 +69811,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["8"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [4.61],
+    "zscore_voto_dip": [1.45],
+    "valor_voto_sen": [2.17],
+    "zscore_voto_sen": [0.53],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -69034,6 +70055,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.91],
+    "zscore_voto_dip": [-0.13],
+    "valor_voto_sen": [1.71],
+    "zscore_voto_sen": [-0.69],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -69098,6 +70123,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.4],
+    "zscore_voto_dip": [0.98],
+    "valor_voto_sen": [1.96],
+    "zscore_voto_sen": [-0.03],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -69162,6 +70191,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["3"],
     "nombre_region": ["Antofagasta"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [1.89],
+    "zscore_voto_sen": [-0.22],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -69479,6 +70512,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.9],
+    "zscore_voto_dip": [-0.15],
+    "valor_voto_sen": [2.31],
+    "zscore_voto_sen": [0.9],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -69725,6 +70762,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["20"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.95],
+    "zscore_voto_dip": [-0.04],
+    "valor_voto_sen": [1.62],
+    "zscore_voto_sen": [-0.93],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -69976,6 +71017,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["28"],
     "nombre_region": ["Magallanes y la Antártica Chilena"],
+    "valor_voto_dip": [3.74],
+    "zscore_voto_dip": [-0.51],
+    "valor_voto_sen": [1.64],
+    "zscore_voto_sen": [-0.88],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -70040,6 +71085,10 @@
     "magnitud_diputado": [3],
     "numero_distrito": ["27"],
     "nombre_region": ["Aysén"],
+    "valor_voto_dip": [3.15],
+    "zscore_voto_dip": [-1.83],
+    "valor_voto_sen": [2.07],
+    "zscore_voto_sen": [0.26],
     "candidaturas_senador": [
       {
         "circ": "XIV",
@@ -70232,6 +71281,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.54],
+    "zscore_voto_dip": [-0.96],
+    "valor_voto_sen": [2.17],
+    "zscore_voto_sen": [0.53],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -70445,6 +71498,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.72],
+    "zscore_voto_dip": [-0.55],
+    "valor_voto_sen": [1.73],
+    "zscore_voto_sen": [-0.64],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -70575,6 +71632,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["21"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.66],
+    "zscore_voto_dip": [-0.69],
+    "valor_voto_sen": [1.58],
+    "zscore_voto_sen": [-1.04],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -70639,6 +71700,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["24"],
     "nombre_region": ["Los Ríos"],
+    "valor_voto_dip": [3.98],
+    "zscore_voto_dip": [0.03],
+    "valor_voto_sen": [1.55],
+    "zscore_voto_sen": [-1.12],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -70791,6 +71856,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["4"],
     "nombre_region": ["Atacama"],
+    "valor_voto_dip": [4.54],
+    "zscore_voto_dip": [1.29],
+    "valor_voto_sen": [2.32],
+    "zscore_voto_sen": [0.92],
     "candidaturas_senador": [
       {
         "circ": "IV",
@@ -71126,6 +72195,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.66],
+    "zscore_voto_dip": [1.56],
+    "valor_voto_sen": [2.54],
+    "zscore_voto_sen": [1.51],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -71607,6 +72680,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["17"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [4.15],
+    "zscore_voto_dip": [0.41],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -71844,6 +72921,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.01],
+    "zscore_voto_dip": [0.1],
+    "valor_voto_sen": [2.08],
+    "zscore_voto_sen": [0.29],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -72057,6 +73138,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["5"],
     "nombre_region": ["Coquimbo"],
+    "valor_voto_dip": [4.28],
+    "zscore_voto_dip": [0.71],
+    "valor_voto_sen": [1.95],
+    "zscore_voto_sen": [-0.06],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -72407,6 +73492,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["22"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [4.16],
+    "zscore_voto_dip": [0.44],
+    "valor_voto_sen": [2.15],
+    "zscore_voto_sen": [0.47],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -72620,6 +73709,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.43],
+    "zscore_voto_dip": [-1.2],
+    "valor_voto_sen": [2.22],
+    "zscore_voto_sen": [0.66],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -72857,6 +73950,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.64],
+    "zscore_voto_dip": [1.52],
+    "valor_voto_sen": [2.53],
+    "zscore_voto_sen": [1.48],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -73349,6 +74446,10 @@
     "magnitud_diputado": [7],
     "numero_distrito": ["23"],
     "nombre_region": ["Araucanía"],
+    "valor_voto_dip": [3.82],
+    "zscore_voto_dip": [-0.33],
+    "valor_voto_sen": [2.32],
+    "zscore_voto_sen": [0.92],
     "candidaturas_senador": [
       {
         "circ": "XII",
@@ -73595,6 +74696,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["7"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [4.65],
+    "zscore_voto_dip": [1.54],
+    "valor_voto_sen": [2.37],
+    "zscore_voto_sen": [1.06],
     "candidaturas_senador": [
       {
         "circ": "VI",
@@ -74076,6 +75181,10 @@
     "magnitud_diputado": [6],
     "numero_distrito": ["11"],
     "nombre_region": ["Región Metropolitana"],
+    "valor_voto_dip": [3.54],
+    "zscore_voto_dip": [-0.96],
+    "valor_voto_sen": [1.33],
+    "zscore_voto_sen": [-1.7],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -74283,6 +75392,10 @@
     "magnitud_diputado": [4],
     "numero_distrito": ["18"],
     "nombre_region": ["Maule"],
+    "valor_voto_dip": [3.54],
+    "zscore_voto_dip": [-0.96],
+    "valor_voto_sen": [2.27],
+    "zscore_voto_sen": [0.79],
     "candidaturas_senador": [
       {
         "circ": "IX",
@@ -74520,6 +75633,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [3.55],
+    "zscore_voto_dip": [-0.93],
+    "valor_voto_sen": [1.63],
+    "zscore_voto_sen": [-0.9],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -74650,6 +75767,10 @@
     "magnitud_diputado": [5],
     "numero_distrito": ["19"],
     "nombre_region": ["Biobío"],
+    "valor_voto_dip": [4.1],
+    "zscore_voto_dip": [0.3],
+    "valor_voto_sen": [1.53],
+    "zscore_voto_sen": [-1.17],
     "candidaturas_senador": [],
     "candidaturas_diputados": [
       {
@@ -74780,6 +75901,10 @@
     "magnitud_diputado": [8],
     "numero_distrito": ["6"],
     "nombre_region": ["Valparaíso"],
+    "valor_voto_dip": [3.57],
+    "zscore_voto_dip": [-0.89],
+    "valor_voto_sen": [2.08],
+    "zscore_voto_sen": [0.29],
     "candidaturas_senador": [
       {
         "circ": "VI",

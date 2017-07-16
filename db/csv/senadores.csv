@@ -1,0 +1,87 @@
+circ,region,candidato,partido,pacto,diputado,senador
+I,"Arica y Parinacota","José Durana",UDI,"Chile Vamos",0,1
+I,"Arica y Parinacota","Patricio Melero",UDI,"Chile Vamos",0,1
+I,"Arica y Parinacota","Nicolás Monckeberg​",RN,"Chile Vamos",0,1
+I,"Arica y Parinacota","Marcela Sabat",RN,"Chile Vamos",0,1
+I,"Arica y Parinacota","Carlos Valcarce​",RN,"Chile Vamos",0,1
+I,"Arica y Parinacota","Iván Paredes​",PS,"Nueva Mayoría",0,1
+I,"Arica y Parinacota","Carmen Hertz",PCCh,"Nueva Mayoría",0,1
+I,"Arica y Parinacota","Gabriel Silber​",PDC,"Fuera de Pacto",0,1
+I,"Arica y Parinacota","Rodrigo Díaz​",Poder,"Frente Amplio",0,1
+I,"Arica y Parinacota","Salvador Urrutia​",FREVS,"Fuera de Pacto",0,1
+II,Tarapacá,"Luz Ebensperger​",UDI,"Chile Vamos",0,1
+II,Tarapacá,"Renzo Trisotti​",UDI,"Chile Vamos",0,1
+II,Tarapacá,"Néstor Jofré​",RN,"Chile Vamos",0,1
+II,Tarapacá,"Pamela Boyardi​",RN,"Chile Vamos",0,1
+II,Tarapacá,"Juan Carlos Carreño​",RN,"Chile Vamos",0,1
+II,Tarapacá,"Cristián Monckeberg​",RN,"Chile Vamos",0,1
+II,Tarapacá,"Gonzalo Urruticoechea​",RN,"Chile Vamos",0,1
+II,Tarapacá,"Jorge Soria",Ind.,"Fuera de Pacto",0,1
+II,Tarapacá,"Jorge Vargas Guerra",FREVS,"Fuera de Pacto",0,1
+II,Tarapacá,"Flavia Torrealba Díaz",FREVS,"Fuera de Pacto",0,1
+IV,Atacama,"Felipe Ward​",UDI,"Chile Vamos",0,1
+IV,Atacama,"Rafael Prohens​",RN,"Chile Vamos",0,1
+IV,Atacama,"Baldo Prokurica​",RN,"Chile Vamos",0,1
+IV,Atacama,"Maglio Cicardini​",PRI,"Chile Vamos",0,1
+IV,Atacama,"José Miguel Insulza​",PS,"Nueva Mayoría",0,1
+IV,Atacama,"Antonio Leal​",PPD,"Nueva Mayoría",0,1
+IV,Atacama,"Lautaro Carmona​",PCCh,"Nueva Mayoría",0,1
+IV,Atacama,"Yasna Provoste​",PDC,"Fuera de Pacto",0,1
+IX,Maule,"Juan Antonio Coloma​",UDI,"Chile Vamos",0,1
+IX,Maule,"Rodrigo Galilea​",RN,"Chile Vamos",0,1
+IX,Maule,"Juan Castro​",RN,"Chile Vamos",0,1
+IX,Maule,"Clarisa Ayala​",RN,"Chile Vamos",0,1
+IX,Maule,"Felipe Morandé​",Evópoli,"Chile Vamos",0,1
+IX,Maule,"Álvaro Elizalde​",PS,"Nueva Mayoría",0,1
+IX,Maule,"Jorge Tarud​",PPD,"Nueva Mayoría",0,1
+IX,Maule,"Romy Rebolledo​",PPD,"Nueva Mayoría",0,1
+IX,Maule,"Eduardo Contreras​",PCCh,"Nueva Mayoría",0,1
+IX,Maule,"Andrés Zaldívar​",PDC,"Fuera de Pacto",0,1
+IX,Maule,"Ximena Rincón​",PDC,"Fuera de Pacto",0,1
+IX,Maule,"Andrés Velasco​",Ciudadanos,"Sentido Futuro",0,1
+IX,Maule,"Juan José Santa Cruz​",Ciudadanos,"Sentido Futuro",0,1
+VI,Valparaíso,"Andrea Molina​",UDI,"Chile Vamos",0,1
+VI,Valparaíso,"Francisco Bartolucci​",UDI,"Chile Vamos",0,1
+VI,Valparaíso,"Osvaldo Urrutia​",UDI,"Chile Vamos",0,1
+VI,Valparaíso,"Francisco Chahuán​",RN,"Chile Vamos",0,1
+VI,Valparaíso,"Cristián Monckeberg​",RN,"Chile Vamos",0,1
+VI,Valparaíso,"Roberto Ampuero​",RN,"Chile Vamos",0,1
+VI,Valparaíso,"Sergio Romero​",RN,"Chile Vamos",0,1
+VI,Valparaíso,"Isabel Allende​",PS,"Nueva Mayoría",0,1
+VI,Valparaíso,"Ricardo Lagos Weber​",PPD,"Nueva Mayoría",0,1
+VI,Valparaíso,"Marco Antonio Núñez​",PPD,"Nueva Mayoría",0,1
+VI,Valparaíso,"Nelson Ávila​",PRSD,"Nueva Mayoría",0,1
+VI,Valparaíso,"Manuel Riesco​",PCCh,"Nueva Mayoría",0,1
+VI,Valparaíso,"Ignacio Walker​",PDC,"Fuera de Pacto",0,1
+VI,Valparaíso,"Aldo Cornejo​",PDC,"Fuera de Pacto",0,1
+VI,Valparaíso,"Ramos Griffero​",RD,"Frente Amplio",0,1
+VI,Valparaíso,"Octavio González​",PH,"Frente Amplio",0,1
+VI,Valparaíso,"Francisco Marín​",Poder,"Frente Amplio",0,1
+VI,Valparaíso,"Alberto Mayol​",Igual,"Frente Amplio",0,1
+VI,Valparaíso,"Lily Pérez",Amplitud,"Sentido Futuro",0,1
+VI,Valparaíso,"Enrique Covarrubias​",Amplitud,"Sentido Futuro",0,1
+VI,Valparaíso,"Carlos Ominami​",PRO,"Fuera de Pacto",0,1
+VI,Valparaíso,"Manuel Catalán",Ind,"Fuera de Pacto",0,1
+VI,Valparaíso,"Gaspar Rivas​",Ind,"Fuera de Pacto",0,1
+XII,Araucanía,"Gustavo Hasbún​",UDI,"Chile Vamos",0,1
+XII,Araucanía,"Germán Becker​",RN,"Chile Vamos",0,1
+XII,Araucanía,"José García Ruminot​",RN,"Chile Vamos",0,1
+XII,Araucanía,"René Manuel García​",RN,"Chile Vamos",0,1
+XII,Araucanía,"María Inés Pérez​",RN,"Chile Vamos",0,1
+XII,Araucanía,"Teodoro Ribera​",RN,"Chile Vamos",0,1
+XII,Araucanía,"Eugenio Tuma​",PPD,"Nueva Mayoría",0,1
+XII,Araucanía,"Jaime Quintana​",PPD,"Nueva Mayoría",0,1
+XII,Araucanía,"Fuad Chahín​",PDC,"Fuera de Pacto",0,1
+XII,Araucanía,"Francisco Huenchumilla​",PDC,"Fuera de Pacto",0,1
+XII,Araucanía,"Jorge Burgos​",PDC,"Fuera de Pacto",0,1
+XII,Araucanía,"Eduardo Díaz del Río​",Amplitud,"Sentido Futuro",0,1
+XII,Araucanía,"Rafael Guilisasti​",Ciudadanos,"Sentido Futuro",0,1
+XII,Araucanía,"Alfredo Sfeir​",FREVS,"Fuera de Pacto",0,1
+XIV,Aysén,"David Sandoval",UDI,"Chile Vamos",0,1
+XIV,Aysén,"Pilar Cuevas​",RN,"Chile Vamos",0,1
+XIV,Aysén,"Camilo Escalona​",PS,"Nueva Mayoría",0,1
+XIV,Aysén,"Ximena Órdenes​",PPD,"Nueva Mayoría",0,1
+XIV,Aysén,"Roxana Pey​",PCCh,"Nueva Mayoría",0,1
+XIV,Aysén,"Patricio Walker​",PDC,"Fuera de Pacto",0,1
+XIV,Aysén,"Antonio Horvath",Amplitud,"Sentido Futuro",0,1
+XIV,Aysén,"Luperciano Muñoz",Ind.,"Fuera de Pacto",0,1

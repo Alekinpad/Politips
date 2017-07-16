@@ -1,0 +1,345 @@
+circ,region,distrito,magsen,magdip,comuna
+"I ","Arica y Parinacota",1,2,3,Arica
+"I ","Arica y Parinacota",1,2,3,Camarones
+"I ","Arica y Parinacota",1,2,3,"General Lagos"
+"I ","Arica y Parinacota",1,2,3,Putre
+"II ",Tarapacá,2,3,3,"Alto Hospicio"
+"II ",Tarapacá,2,3,3,Camiña
+"II ",Tarapacá,2,3,3,Colchane
+"II ",Tarapacá,2,3,3,Huara
+"II ",Tarapacá,2,3,3,Iquique
+"II ",Tarapacá,2,3,3,Pica
+"II ",Tarapacá,2,3,3,"Pozo Almonte"
+"III ",Antofagasta,3,3,5,Calama
+"III ",Antofagasta,3,3,5,"María Elena"
+"III ",Antofagasta,3,3,5,Ollagüe
+"III ",Antofagasta,3,3,5,"San Pedro de Atacama"
+"III ",Antofagasta,3,3,5,Tocopilla
+"III ",Antofagasta,3,3,5,Antofagasta
+"III ",Antofagasta,3,3,5,Mejillones
+"III ",Antofagasta,3,3,5,"Sierra Gorda"
+"III ",Antofagasta,3,3,5,Taltal
+"IV ",Atacama,4,2,5,Chañaral
+"IV ",Atacama,4,2,5,Copiapó
+"IV ",Atacama,4,2,5,"Diego de Almagro"
+"IV ",Atacama,4,2,5,"Alto del Carmen"
+"IV ",Atacama,4,2,5,Caldera
+"IV ",Atacama,4,2,5,Huasco
+"IV ",Atacama,4,2,5,Freirina
+"IV ",Atacama,4,2,5,"Tierra Amarilla"
+"IV ",Atacama,4,2,5,Vallenar
+"V ",Coquimbo,5,3,7,Andacollo
+"V ",Coquimbo,5,3,7,"La Higuera"
+"V ",Coquimbo,5,3,7,"La Serena"
+"V ",Coquimbo,5,3,7,Paihuano
+"V ",Coquimbo,5,3,7,Vicuña
+"V ",Coquimbo,5,3,7,Coquimbo
+"V ",Coquimbo,5,3,7,Ovalle
+"V ",Coquimbo,5,3,7,"Río Hurtado"
+"V ",Coquimbo,5,3,7,Canela
+"V ",Coquimbo,5,3,7,Combarbalá
+"V ",Coquimbo,5,3,7,Illapel
+"V ",Coquimbo,5,3,7,"Los Vilos"
+"V ",Coquimbo,5,3,7,"Monte Patria"
+"V ",Coquimbo,5,3,7,Punitaqui
+"V ",Coquimbo,5,3,7,Salamanca
+"VI ",Valparaíso,6,5,8,Cabildo
+"VI ",Valparaíso,6,5,8,"La Calera"
+"VI ",Valparaíso,6,5,8,Hijuelas
+"VI ",Valparaíso,6,5,8,"La Cruz"
+"VI ",Valparaíso,6,5,8,"La Ligua"
+"VI ",Valparaíso,6,5,8,Nogales
+"VI ",Valparaíso,6,5,8,Papudo
+"VI ",Valparaíso,6,5,8,Petorca
+"VI ",Valparaíso,6,5,8,Puchuncaví
+"VI ",Valparaíso,6,5,8,Quillota
+"VI ",Valparaíso,6,5,8,Quintero
+"VI ",Valparaíso,6,5,8,Zapallar
+"VI ",Valparaíso,6,5,8,"Calle Larga"
+"VI ",Valparaíso,6,5,8,Catemu
+"VI ",Valparaíso,6,5,8,Llaillay
+"VI ",Valparaíso,6,5,8,"Los Andes"
+"VI ",Valparaíso,6,5,8,Panquehue
+"VI ",Valparaíso,6,5,8,Putaendo
+"VI ",Valparaíso,6,5,8,Rinconada
+"VI ",Valparaíso,6,5,8,"San Esteban"
+"VI ",Valparaíso,6,5,8,"San Felipe"
+"VI ",Valparaíso,6,5,8,"Santa María"
+"VI ",Valparaíso,6,5,8,Limache
+"VI ",Valparaíso,6,5,8,Olmué
+"VI ",Valparaíso,6,5,8,Quilpué
+"VI ",Valparaíso,6,5,8,"Villa Alemana"
+"VI ",Valparaíso,7,5,8,"Isla de Pascua"
+"VI ",Valparaíso,7,5,8,"Juan Fernández"
+"VI ",Valparaíso,7,5,8,Valparaíso
+"VI ",Valparaíso,7,5,8,Concón
+"VI ",Valparaíso,7,5,8,"Viña del Mar"
+"VI ",Valparaíso,7,5,8,Algarrobo
+"VI ",Valparaíso,7,5,8,Cartagena
+"VI ",Valparaíso,7,5,8,Casablanca
+"VI ",Valparaíso,7,5,8,"El Quisco"
+"VI ",Valparaíso,7,5,8,"El Tabo"
+"VI ",Valparaíso,7,5,8,"San Antonio"
+"VI ",Valparaíso,7,5,8,"Santo Domingo"
+"VII ","Región Metropolitana",8,5,8,Colina
+"VII ","Región Metropolitana",8,5,8,Lampa
+"VII ","Región Metropolitana",8,5,8,Quilicura
+"VII ","Región Metropolitana",8,5,8,Pudahuel
+"VII ","Región Metropolitana",8,5,8,Tiltil
+"VII ","Región Metropolitana",8,5,8,Cerrillos
+"VII ","Región Metropolitana",8,5,8,"Estación Central"
+"VII ","Región Metropolitana",8,5,8,Maipú
+"VII ","Región Metropolitana",9,5,7,Conchalí
+"VII ","Región Metropolitana",9,5,7,Huechuraba
+"VII ","Región Metropolitana",9,5,7,Renca
+"VII ","Región Metropolitana",9,5,7,"Cerro Navia"
+"VII ","Región Metropolitana",9,5,7,"Lo Prado"
+"VII ","Región Metropolitana",9,5,7,"Quinta Normal"
+"VII ","Región Metropolitana",9,5,7,Independencia
+"VII ","Región Metropolitana",9,5,7,Recoleta
+"VII ","Región Metropolitana",10,5,8,Santiago
+"VII ","Región Metropolitana",10,5,8,Ñuñoa
+"VII ","Región Metropolitana",10,5,8,Providencia
+"VII ","Región Metropolitana",10,5,8,"La Granja"
+"VII ","Región Metropolitana",10,5,8,Macul
+"VII ","Región Metropolitana",10,5,8,"San Joaquín"
+"VII ","Región Metropolitana",11,5,6,"Las Condes"
+"VII ","Región Metropolitana",11,5,6,"Lo Barnechea"
+"VII ","Región Metropolitana",11,5,6,Vitacura
+"VII ","Región Metropolitana",11,5,6,"La Reina"
+"VII ","Región Metropolitana",11,5,6,Peñalolén
+"VII ","Región Metropolitana",12,5,7,"La Florida"
+"VII ","Región Metropolitana",12,5,7,"Puente Alto"
+"VII ","Región Metropolitana",12,5,7,"La Pintana"
+"VII ","Región Metropolitana",12,5,7,Pirque
+"VII ","Región Metropolitana",12,5,7,"San José de Maipo"
+"VII ","Región Metropolitana",13,5,5,"El Bosque"
+"VII ","Región Metropolitana",13,5,5,"La Cisterna"
+"VII ","Región Metropolitana",13,5,5,"San Ramón"
+"VII ","Región Metropolitana",13,5,5,"Lo Espejo"
+"VII ","Región Metropolitana",13,5,5,"Pedro Aguirre Cerda"
+"VII ","Región Metropolitana",13,5,5,"San Miguel"
+"VII ","Región Metropolitana",14,5,6,Buin
+"VII ","Región Metropolitana",14,5,6,"Calera de Tango"
+"VII ","Región Metropolitana",14,5,6,Paine
+"VII ","Región Metropolitana",14,5,6,"San Bernardo"
+"VII ","Región Metropolitana",14,5,6,Alhué
+"VII ","Región Metropolitana",14,5,6,Curacaví
+"VII ","Región Metropolitana",14,5,6,"El Monte"
+"VII ","Región Metropolitana",14,5,6,"Isla de Maipo"
+"VII ","Región Metropolitana",14,5,6,"María Pinto"
+"VII ","Región Metropolitana",14,5,6,Melipilla
+"VII ","Región Metropolitana",14,5,6,"Padre Hurtado"
+"VII ","Región Metropolitana",14,5,6,Peñaflor
+"VII ","Región Metropolitana",14,5,6,"San Pedro"
+"VII ","Región Metropolitana",14,5,6,Talagante
+"VIII ",O'Higgins,15,3,5,Rancagua
+"VIII ",O'Higgins,15,3,5,Codegua
+"VIII ",O'Higgins,15,3,5,Coínco
+"VIII ",O'Higgins,15,3,5,Coltauco
+"VIII ",O'Higgins,15,3,5,Doñihue
+"VIII ",O'Higgins,15,3,5,Graneros
+"VIII ",O'Higgins,15,3,5,Machalí
+"VIII ",O'Higgins,15,3,5,Malloa
+"VIII ",O'Higgins,15,3,5,Mostazal
+"VIII ",O'Higgins,15,3,5,Olivar
+"VIII ",O'Higgins,15,3,5,"Quinta de Tilcoco"
+"VIII ",O'Higgins,15,3,5,Rengo
+"VIII ",O'Higgins,15,3,5,Requínoa
+"VIII ",O'Higgins,16,3,4,Chimbarongo
+"VIII ",O'Higgins,16,3,4,"Las Cabras"
+"VIII ",O'Higgins,16,3,4,Peumo
+"VIII ",O'Higgins,16,3,4,Pichidegua
+"VIII ",O'Higgins,16,3,4,"San Fernando"
+"VIII ",O'Higgins,16,3,4,"San Vicente"
+"VIII ",O'Higgins,16,3,4,Chépica
+"VIII ",O'Higgins,16,3,4,"La Estrella"
+"VIII ",O'Higgins,16,3,4,Litueche
+"VIII ",O'Higgins,16,3,4,Lolol
+"VIII ",O'Higgins,16,3,4,Marchihue
+"VIII ",O'Higgins,16,3,4,Nancagua
+"VIII ",O'Higgins,16,3,4,Navidad
+"VIII ",O'Higgins,16,3,4,Palmilla
+"VIII ",O'Higgins,16,3,4,Paredones
+"VIII ",O'Higgins,16,3,4,Peralillo
+"VIII ",O'Higgins,16,3,4,Pichilemu
+"VIII ",O'Higgins,16,3,4,Placilla
+"VIII ",O'Higgins,16,3,4,Pumanque
+"VIII ",O'Higgins,16,3,4,"Santa Cruz"
+"IX ",Maule,17,5,7,Curicó
+"IX ",Maule,17,5,7,Hualañé
+"IX ",Maule,17,5,7,Licantén
+"IX ",Maule,17,5,7,Molina
+"IX ",Maule,17,5,7,Rauco
+"IX ",Maule,17,5,7,Romeral
+"IX ",Maule,17,5,7,"Sagrada Familia"
+"IX ",Maule,17,5,7,Teno
+"IX ",Maule,17,5,7,Vichuquén
+"IX ",Maule,17,5,7,Talca
+"IX ",Maule,17,5,7,Constitución
+"IX ",Maule,17,5,7,Curepto
+"IX ",Maule,17,5,7,Empedrado
+"IX ",Maule,17,5,7,Maule
+"IX ",Maule,17,5,7,Pelarco
+"IX ",Maule,17,5,7,Pencahue
+"IX ",Maule,17,5,7,"Río Claro"
+"IX ",Maule,17,5,7,"San Clemente"
+"IX ",Maule,17,5,7,"San Rafael"
+"IX ",Maule,18,5,4,Colbún
+"IX ",Maule,18,5,4,Linares
+"IX ",Maule,18,5,4,"San Javier"
+"IX ",Maule,18,5,4,"Villa Alegre"
+"IX ",Maule,18,5,4,"Yerbas Buenas"
+"IX ",Maule,18,5,4,Cauquenes
+"IX ",Maule,18,5,4,Chanco
+"IX ",Maule,18,5,4,Longaví
+"IX ",Maule,18,5,4,Parral
+"IX ",Maule,18,5,4,Pelluhue
+"IX ",Maule,18,5,4,Retiro
+"X ",Biobío,19,5,5,Bulnes
+"X ",Biobío,19,5,5,Cabrero
+"X ",Biobío,19,5,5,Cobquecura
+"X ",Biobío,19,5,5,Coelemu
+"X ",Biobío,19,5,5,Ñiquén
+"X ",Biobío,19,5,5,Portezuelo
+"X ",Biobío,19,5,5,Quillón
+"X ",Biobío,19,5,5,Quirihue
+"X ",Biobío,19,5,5,Ninhue
+"X ",Biobío,19,5,5,Ránquil
+"X ",Biobío,19,5,5,"San Carlos"
+"X ",Biobío,19,5,5,"San Fabián"
+"X ",Biobío,19,5,5,"San Nicolás"
+"X ",Biobío,19,5,5,Treguaco
+"X ",Biobío,19,5,5,Yumbel
+"X ",Biobío,19,5,5,Chillán
+"X ",Biobío,19,5,5,"Chillán Viejo"
+"X ",Biobío,19,5,5,Coihueco
+"X ",Biobío,19,5,5,"El Carmen"
+"X ",Biobío,19,5,5,Pemuco
+"X ",Biobío,19,5,5,Pinto
+"X ",Biobío,19,5,5,"San Ignacio"
+"X ",Biobío,19,5,5,Yungay
+"X ",Biobío,20,5,8,Talcahuano
+"X ",Biobío,20,5,8,Chiguayante
+"X ",Biobío,20,5,8,Concepción
+"X ",Biobío,20,5,8,"San Pedro de la Paz"
+"X ",Biobío,20,5,8,Coronel
+"X ",Biobío,20,5,8,Florida
+"X ",Biobío,20,5,8,Hualqui
+"X ",Biobío,20,5,8,Penco
+"X ",Biobío,20,5,8,"Santa Juana"
+"X ",Biobío,20,5,8,Tomé
+"X ",Biobío,21,5,5,Arauco
+"X ",Biobío,21,5,5,Cañete
+"X ",Biobío,21,5,5,Contulmo
+"X ",Biobío,21,5,5,Curanilahue
+"X ",Biobío,21,5,5,"Los Álamos"
+"X ",Biobío,21,5,5,Lebu
+"X ",Biobío,21,5,5,Lota
+"X ",Biobío,21,5,5,Tirúa
+"X ",Biobío,21,5,5,"Alto Biobío"
+"X ",Biobío,21,5,5,Antuco
+"X ",Biobío,21,5,5,Laja
+"X ",Biobío,21,5,5,"Los Ángeles"
+"X ",Biobío,21,5,5,Mulchén
+"X ",Biobío,21,5,5,Nacimiento
+"X ",Biobío,21,5,5,Negrete
+"X ",Biobío,21,5,5,Quilaco
+"X ",Biobío,21,5,5,Quilleco
+"X ",Biobío,21,5,5,"San Rosendo"
+"X ",Biobío,21,5,5,"Santa Bárbara"
+"X ",Biobío,21,5,5,Tucapel
+"XI ",Araucanía,22,5,4,Angol
+"XI ",Araucanía,22,5,4,Collipulli
+"XI ",Araucanía,22,5,4,Ercilla
+"XI ",Araucanía,22,5,4,"Los Sauces"
+"XI ",Araucanía,22,5,4,Lumaco
+"XI ",Araucanía,22,5,4,Purén
+"XI ",Araucanía,22,5,4,Renaico
+"XI ",Araucanía,22,5,4,Traiguén
+"XI ",Araucanía,22,5,4,Curacautín
+"XI ",Araucanía,22,5,4,Galvarino
+"XI ",Araucanía,22,5,4,Lautaro
+"XI ",Araucanía,22,5,4,Lonquimay
+"XI ",Araucanía,22,5,4,Melipeuco
+"XI ",Araucanía,22,5,4,Perquenco
+"XI ",Araucanía,22,5,4,Victoria
+"XI ",Araucanía,22,5,4,Vilcún
+"XI ",Araucanía,23,5,7,"Padre Las Casas"
+"XI ",Araucanía,23,5,7,Temuco
+"XI ",Araucanía,23,5,7,Carahue
+"XI ",Araucanía,23,5,7,Cholchol
+"XI ",Araucanía,23,5,7,Freire
+"XI ",Araucanía,23,5,7,"Nueva Imperial"
+"XI ",Araucanía,23,5,7,Pitrufquén
+"XI ",Araucanía,23,5,7,Saavedra
+"XI ",Araucanía,23,5,7,"Teodoro Schmidt"
+"XI ",Araucanía,23,5,7,Cunco
+"XI ",Araucanía,23,5,7,Curarrehue
+"XI ",Araucanía,23,5,7,Gorbea
+"XI ",Araucanía,23,5,7,Loncoche
+"XI ",Araucanía,23,5,7,Pucón
+"XI ",Araucanía,23,5,7,Toltén
+"XI ",Araucanía,23,5,7,Villarrica
+"XII ","Los Ríos",24,3,5,Corral
+"XII ","Los Ríos",24,3,5,Lanco
+"XII ","Los Ríos",24,3,5,Máfil
+"XII ","Los Ríos",24,3,5,Mariquina
+"XII ","Los Ríos",24,3,5,Valdivia
+"XII ","Los Ríos",24,3,5,Futrono
+"XII ","Los Ríos",24,3,5,"La Unión"
+"XII ","Los Ríos",24,3,5,"Lago Ranco"
+"XII ","Los Ríos",24,3,5,"Los Lagos"
+"XII ","Los Ríos",24,3,5,Paillaco
+"XII ","Los Ríos",24,3,5,Panguipulli
+"XII ","Los Ríos",24,3,5,"Río Bueno"
+"XIII ","Los Lagos",25,3,4,Osorno
+"XIII ","Los Lagos",25,3,4,"San Juan de la Costa"
+"XIII ","Los Lagos",25,3,4,"San Pablo"
+"XIII ","Los Lagos",25,3,4,Fresia
+"XIII ","Los Lagos",25,3,4,Frutillar
+"XIII ","Los Lagos",25,3,4,Llanquihue
+"XIII ","Los Lagos",25,3,4,"Los Muermos"
+"XIII ","Los Lagos",25,3,4,"Puerto Octay"
+"XIII ","Los Lagos",25,3,4,"Puerto Varas"
+"XIII ","Los Lagos",25,3,4,Puyehue
+"XIII ","Los Lagos",25,3,4,Purranque
+"XIII ","Los Lagos",25,3,4,"Río Negro"
+"XIII ","Los Lagos",26,3,5,Calbuco
+"XIII ","Los Lagos",26,3,5,Cochamó
+"XIII ","Los Lagos",26,3,5,Maullín
+"XIII ","Los Lagos",26,3,5,"Puerto Montt"
+"XIII ","Los Lagos",26,3,5,Ancud
+"XIII ","Los Lagos",26,3,5,Castro
+"XIII ","Los Lagos",26,3,5,Chaitén
+"XIII ","Los Lagos",26,3,5,Chonchi
+"XIII ","Los Lagos",26,3,5,"Curaco de Vélez"
+"XIII ","Los Lagos",26,3,5,Dalcahue
+"XIII ","Los Lagos",26,3,5,Futaleufú
+"XIII ","Los Lagos",26,3,5,Hualaihué
+"XIII ","Los Lagos",26,3,5,Palena
+"XIII ","Los Lagos",26,3,5,Puqueldón
+"XIII ","Los Lagos",26,3,5,Queilén
+"XIII ","Los Lagos",26,3,5,Quellón
+"XIII ","Los Lagos",26,3,5,Quemchi
+"XIII ","Los Lagos",26,3,5,Quinchao
+"XIV ",Aysén,27,2,3,Cisnes
+"XIV ",Aysén,27,2,3,"Chile Chico"
+"XIV ",Aysén,27,2,3,Coyhaique
+"XIV ",Aysén,27,2,3,Cochrane
+"XIV ",Aysén,27,2,3,Guaitecas
+"XIV ",Aysén,27,2,3,"Lago Verde"
+"XIV ",Aysén,27,2,3,"Río Ibáñez"
+"XIV ",Aysén,27,2,3,O'Higgins
+"XIV ",Aysén,27,2,3,Tortel
+"XV ","Magallanes y la Antártica Chilena",28,2,3,Antártica
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"Cabo de Hornos"
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"Laguna Blanca"
+"XV ","Magallanes y la Antártica Chilena",28,2,3,Natales
+"XV ","Magallanes y la Antártica Chilena",28,2,3,Porvenir
+"XV ","Magallanes y la Antártica Chilena",28,2,3,Primavera
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"Punta Arenas"
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"Río Verde"
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"San Gregorio"
+"XV ","Magallanes y la Antártica Chilena",28,2,3,Timaukel
+"XV ","Magallanes y la Antártica Chilena",28,2,3,"Torres del Paine"

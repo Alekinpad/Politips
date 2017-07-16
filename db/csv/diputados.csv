@@ -1,0 +1,417 @@
+circ,region,dist,capitaldist,candidato,partido,pacto,diputado,senador
+I,"Arica y Parinacota",1,Arica,"Pablo Arancibia",UDI,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Nino Baltolu",UDI,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Andrés Peralta​",UDI,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Solón Chávez",RN,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Laura Ferret",RN,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Patricio López",RN,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Víctor Mardones",RN,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Marcelo Zara​",RN,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Juan Ignacio Palma​",Evópoli,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Alejandro Salas​",PRI,"Chile Vamos",1,0
+I,"Arica y Parinacota",1,Arica,"Luis Rocafull",PS,"Nueva Mayoría",1,0
+I,"Arica y Parinacota",1,Arica,"Vlado Mirosevic",PL,"Frente Amplio",1,0
+II,Tarapacá,2,Iquique,"Renzo Trisotti",UDI,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Pamela Boyardi",RN,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Ramón Galleguillos​",RN,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Natán Olivos",Evópoli,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Felipe Rojas​",Evópoli,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Mirna Chávez",PRI,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"José Lagos​",PRI,"Chile Vamos",1,0
+II,Tarapacá,2,Iquique,"Hugo Gutiérrez",PCCh,"Nueva Mayoría",1,0
+II,Tarapacá,2,Iquique,"Miguel Rocha",Poder,"Frente Amplio",1,0
+II,Tarapacá,2,Iquique,"Sebastián Vergara (IL)",Otros,"Frente Amplio",1,0
+II,Tarapacá,2,Iquique,"Rodrigo Oliva (IA)",Otros,"Frente Amplio",1,0
+II,Tarapacá,2,Iquique,"Cristian Jamett",PRO,"Fuera de Pacto",1,0
+II,Tarapacá,2,Iquique,"Aníbal Alvarado",IND,"Fuera de Pacto",1,0
+III,Antofagasta,3,Antofagasta,"Lorena Muñoz",UDI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Manuel Rojas",UDI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Pablo Toloza​",UDI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Paulina Núñez",RN,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"José Miguel Castro",RN,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Mario Arce​",RN,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Andrea Tessa​",Evópoli,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Jaime Madera",PRI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Mirta Moreno",PRI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Eslayne Portilla​",PRI,"Chile Vamos",1,0
+III,Antofagasta,3,Antofagasta,"Marcela Hernando",PRSD,"Nueva Mayoría",1,0
+III,Antofagasta,3,Antofagasta,"Marcos Espinosa",PRSD,"Nueva Mayoría",1,0
+III,Antofagasta,3,Antofagasta,"Alejandra Pozo​",IC,"Nueva Mayoría",1,0
+III,Antofagasta,3,Antofagasta,"Osvaldo Chávez",RD,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Catalina Pérez",RD,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Fredy Antilef",Poder,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Esteban Valenzuela",Poder,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Pablo Herrera (MA)",Otros,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Carolina Reyes (ND)",Otros,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Fernando San Román (IL)",Otros,"Frente Amplio",1,0
+III,Antofagasta,3,Antofagasta,"Juan Carlos Liendo",Amplitud,"Sentido Futuro",1,0
+III,Antofagasta,3,Antofagasta,"Irina Salgado",Amplitud,"Sentido Futuro",1,0
+III,Antofagasta,3,Antofagasta,"Constantino Zafirópulos",Amplitud,"Sentido Futuro",1,0
+III,Antofagasta,3,Antofagasta,"Felipe Contreras",Ciudadanos,"Sentido Futuro",1,0
+III,Antofagasta,3,Antofagasta,"Felipe Vergara",Ciudadanos,"Sentido Futuro",1,0
+III,Antofagasta,3,Antofagasta,"Marisela Santibáñez",PRO,"Fuera de Pacto",1,0
+III,Antofagasta,3,Antofagasta,"Janett Guerra",PRO,"Fuera de Pacto",1,0
+III,Antofagasta,3,Antofagasta,"Daniel Adaro",IND,"Fuera de Pacto",1,0
+IV,Atacama,4,Copiapó,"Giovanni Calderón",UDI,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Nicolás Noman",UDI,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Juan Antonio Pérez",UDI,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Carlos Vilches​",UDI,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Teresa Cañas",RN,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Sofía Cid",RN,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Javier Coopman",RN,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Patricio Urquieta",RN,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Cristián Viñales​",RN,"Chile Vamos",1,0
+IV,Atacama,4,Copiapó,"Daniella Cicardini",PS,"Nueva Mayoría",1,0
+IV,Atacama,4,Copiapó,"Alberto Robles",PRSD,"Nueva Mayoría",1,0
+IV,Atacama,4,Copiapó,"Juan Carlos Meléndez​",PRSD,"Nueva Mayoría",1,0
+IV,Atacama,4,Copiapó,"Fernando Zamorano","MAS R","Nueva Mayoría",1,0
+IV,Atacama,4,Copiapó,"Guillermo Cortés",IC,"Nueva Mayoría",1,0
+IV,Atacama,4,Copiapó,"Mario Varas",RD,"Frente Amplio",1,0
+IV,Atacama,4,Copiapó,"Inti Salamanca",Poder,"Frente Amplio",1,0
+IV,Atacama,4,Copiapó,"Juan Díaz",Poder,"Frente Amplio",1,0
+IV,Atacama,4,Copiapó,"Sandra Peña (MA)",Otros,"Frente Amplio",1,0
+IV,Atacama,4,Copiapó,"Mario Villalobos",Amplitud,"Sentido Futuro",1,0
+IV,Atacama,4,Copiapó,"Jaime Mulet Martínez",FREVS,"Fuera de Pacto",1,0
+IV,Atacama,4,Copiapó,"Yhanss Delgado Quevedo",FREVS,"Fuera de Pacto",1,0
+IV,Atacama,4,Copiapó,"Clara Meneses Coloma",FREVS,"Fuera de Pacto",1,0
+IV,Atacama,4,Copiapó,"John Martínez Gallardo",FREVS,"Fuera de Pacto",1,0
+V,Coquimbo,5,"La Serena","Sergio Gahona",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Paola Cortés",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Juan Manuel Fuenzalida",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Ivón Guerra",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","José Sulantay",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Gonzalo Uriarte",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Susana Verdugo​",UDI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Carlos Cruz-Coke",RN,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Francisco Eguiguren",RN,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Adriana Peñafiel",RN,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Roberto Vega​",RN,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Leonardo Canales",Evópoli,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Joaquín Villarino​",Evópoli,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Blanca Araya",PRI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Yuri Olivares",PRI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Solercio Rojas​",PRI,"Chile Vamos",1,0
+V,Coquimbo,5,"La Serena","Raul Saldivar",PS,"Nueva Mayoría",1,0
+V,Coquimbo,5,"La Serena","Luis Lemus",PS,"Nueva Mayoría",1,0
+V,Coquimbo,5,"La Serena","Miguel Ángel Alvarado",PPD,"Nueva Mayoría",1,0
+V,Coquimbo,5,"La Serena","Ernesto Velasco",PRSD,"Nueva Mayoría",1,0
+V,Coquimbo,5,"La Serena","Daniel Núñez",PCCh,"Nueva Mayoría",1,0
+V,Coquimbo,5,"La Serena","Magallanes Espinosa",RD,"Frente Amplio",1,0
+V,Coquimbo,5,"La Serena","Nelson Gálvez (Ind.)",Otros,"Frente Amplio",1,0
+V,Coquimbo,5,"La Serena","Patricia Aguirre",RD,"Frente Amplio",1,0
+V,Coquimbo,5,"La Serena","Marisol Céspedes",RD,"Frente Amplio",1,0
+V,Coquimbo,5,"La Serena","Matías Walker",PDC,"Fuera de Pacto",1,0
+V,Coquimbo,5,"La Serena","Cristian Galleguillos",PDC,"Fuera de Pacto",1,0
+V,Coquimbo,5,"La Serena","Pedro Antonio Castillo",Amplitud,"Sentido Futuro",1,0
+V,Coquimbo,5,"La Serena","René Olivarez",Amplitud,"Sentido Futuro",1,0
+V,Coquimbo,5,"La Serena","Gustavo Possel",Ind.,"Sentido Futuro",1,0
+V,Coquimbo,5,"La Serena","Leonardo Oliva",IND,"Fuera de Pacto",1,0
+VI,Valparaíso,6,"San Felipe","Arturo Squella",UDI,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Andrés Longton",RN,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Felipe Armas",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Javier Maldonado",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Javier Pérez",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Hotuiti Teao​",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,6,"San Felipe","Marcelo Schilling",PS,"Nueva Mayoría",1,0
+VI,Valparaíso,6,"San Felipe","Christian Urízar",PS,"Nueva Mayoría",1,0
+VI,Valparaíso,6,"San Felipe","Carolina Marzán​",PPD,"Nueva Mayoría",1,0
+VI,Valparaíso,6,"San Felipe","Pedro Ávila​",PRSD,"Nueva Mayoría",1,0
+VI,Valparaíso,6,"San Felipe","Camilo Sánchez​",PCCh,"Nueva Mayoría",1,0
+VI,Valparaíso,6,"San Felipe","Fidel Cueto",RD,"Frente Amplio",1,0
+VI,Valparaíso,6,"San Felipe","Matías Gazmuri​",Poder,"Frente Amplio",1,0
+VI,Valparaíso,6,"San Felipe","Javiera Toledo​",Poder,"Frente Amplio",1,0
+VI,Valparaíso,6,"San Felipe","Guillermo Aqueveque",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Jeane Croocker",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Ana Cuadros",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Evelyn Hornig",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Salustio Prieto",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Rodrigo Silva",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Jorge Schiapacasse",Ciudadanos,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Javier Tobar",Ind.,"Sentido Futuro",1,0
+VI,Valparaíso,6,"San Felipe","Gabriel Aránguiz",PRO,"Fuera de Pacto",1,0
+VI,Valparaíso,6,"San Felipe","Julio Lobos",PRO,"Fuera de Pacto",1,0
+VI,Valparaíso,6,"San Felipe","John Suma de Villa",PRO,"Fuera de Pacto",1,0
+VI,Valparaíso,7,Valparaíso,"Osvaldo Urrutia",UDI,"Chile Vamos",1,0
+VI,Valparaíso,7,Valparaíso,"María José Hoffmann​",UDI,"Chile Vamos",1,0
+VI,Valparaíso,7,Valparaíso,"José Egido",RN,"Chile Vamos",1,0
+VI,Valparaíso,7,Valparaíso,"María de la Paz",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,7,Valparaíso,"Ricardo Urenda​",Evópoli,"Chile Vamos",1,0
+VI,Valparaíso,7,Valparaíso,"Cynthia Burgos​",PS,"Nueva Mayoría",1,0
+VI,Valparaíso,7,Valparaíso,"Rodrigo González",PPD,"Nueva Mayoría",1,0
+VI,Valparaíso,7,Valparaíso,"Jorge Brito",RD,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Mabel Sánchez (Ind.)",PH,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Jorge Canales",Poder,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Camila Rojas (IA)​",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Jorge Rauld (MA)",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Juan Pablo Paonessa (ND)",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Mirko Caracciolo (Ind.)",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Mario Mandiola (Ind.)",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"John Parada (MVC/Ind.)",Otros,"Frente Amplio",1,0
+VI,Valparaíso,7,Valparaíso,"Victor Torres",PDC,"Fuera de Pacto",1,0
+VI,Valparaíso,7,Valparaíso,"Álvaro Sanhueza",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"Felipe Matamala",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"Karen Pichunante",Amplitud,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"Erika Muñoz",Ciudadanos,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"Lucas Blaset",Ind.,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"César Miranda",Ind.,"Sentido Futuro",1,0
+VI,Valparaíso,7,Valparaíso,"Rodrigo Vattuone",IND,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",8,Maipú,"Joaquín Lavín León",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",8,Maipú,"Alejandra Bravo",PRI,"Chile Vamos",1,0
+VII,"Región Metropolitana",8,Maipú,"Verónica Abud",PRI,"Chile Vamos",1,0
+VII,"Región Metropolitana",8,Maipú,"Gonzalo Gutiérrez​",PRI,"Chile Vamos",1,0
+VII,"Región Metropolitana",8,Maipú,"Gabriela Carrasco​",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",8,Maipú,"Nicol Garrido​",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",8,Maipú,"Margarita Reyes​",PRSD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",8,Maipú,"Víctor Osorio​",IC,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",8,Maipú,"Pepe Auth",Ind,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",8,Maipú,"Giordano Delpin",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Pablo Vidal",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Claudia Mix​",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Ramiro Cepeda​",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Doris González (Ukamau)​",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Ricardo Camargo (MA)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Ricardo Maldonado (ND)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",8,Maipú,"Paola Cabezas",Amplitud,"Sentido Futuro",1,0
+VII,"Región Metropolitana",8,Maipú,"Juan Diego Santa Cruz​",Amplitud,"Sentido Futuro",1,0
+VII,"Región Metropolitana",8,Maipú,"Sacha Razmilic",Ind.,"Sentido Futuro",1,0
+VII,"Región Metropolitana",8,Maipú,"Alexander Aránguiz",PRO,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",8,Maipú,"Camilo Lagos",PRO,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",9,Recoleta,"Claudia Nogueira",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",9,Recoleta,"Loreto Seguel",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",9,Recoleta,"Mijaíl Bonito​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",9,Recoleta,"Ricardo Flores​",PRI,"Chile Vamos",1,0
+VII,"Región Metropolitana",9,Recoleta,"Karina Delfino​",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Cristina Girardi",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Gonzalo Navarrete​",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Karol Cariola",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Andrea Navea","MAS R","Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Felipe Parada","MAS R","Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Óscar Hernández​",IC,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",9,Recoleta,"Enzo Muñoz",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Pablo Padilla (Ind.)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Maite Orsini",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Catalina Alegría",PH,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Jorge Canales",PEV,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Eric Coñoman",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Kimberly Seguel",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",9,Recoleta,"Ramsey Lawrence",Ind.,"Sentido Futuro",1,0
+VII,"Región Metropolitana",9,Recoleta,"Andrea Condemarín",PRO,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Jorge Alessandri​",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Julio Issamit​",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Carolina Lavín​",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Marcela Sabat",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Alberto Cardemil​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Sebatián Torrealba​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Pilar Cruz",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Rosa Oyarce​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Raúl Meza​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Perla Seguel​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Claudia Faúndez​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Maya Fernández",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Ismael Calderón​",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Ramón Farías",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Helia Molina​",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Julia Urquieta​",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Javiera Olivares​",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Javiera Reyes​",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Giorgio Jackson",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Natalia Castillo",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Raúl Florcita Alarcón​",PH,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Cristián Villarroel",PEV,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Rodrigo Román",IGUAL,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Francisco Figueroa (IA)​",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Gonzalo Winter (MA)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Claudio Arriagada",PDC,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Nicolás Muñoz",PDC,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Eva Jiménez",PDC,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Óscar Rementería",Amplitud,"Sentido Futuro",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Elizabeth Armstrong",Amplitud,"Sentido Futuro",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Luis Larraín",Ind.,"Sentido Futuro",1,0
+VII,"Región Metropolitana",10,"Santiago Centro","Patricia Morales",PRO,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",11,"Las Condes","Guillermo Ramírez​",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Bárbara Soto​",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Gonzalo Fuenzalida​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Catalina del Real​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Karin Luck​",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Felipe Kast​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Francisco Undurraga​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Nibaldo Buitrago​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",11,"Las Condes","Fernando Atria​",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",11,"Las Condes","Soledad Álamos",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",11,"Las Condes","Tomás Hirsch",PH,"Frente Amplio",1,0
+VII,"Región Metropolitana",11,"Las Condes","Willem Schuitemaker",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",11,"Las Condes","Fernando Encina (ND)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",11,"Las Condes","Manuela Veloso (MA)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",11,"Las Condes","Jaime Pilowsky",PDC,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",11,"Las Condes","Mariana Aylwin",PDC,"Fuera de Pacto",1,0
+VII,"Región Metropolitana",11,"Las Condes","Ignacia Gómez",Ind.,"Sentido Futuro",1,0
+VII,"Región Metropolitana",11,"Las Condes","Sebastián Sichel",Ind.,"Sentido Futuro",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Leopoldo Pérez",RN,"Chile Vamos",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Sebastián Keitel​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Osvaldo Andrade",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Camila Vallejo",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Miguel Crispi​",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Karina Oliva​",Poder,"Frente Amplio",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Andrea Salazar (MA)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",12,"Puente Alto","Valentina Olivares (ND)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",13,"San Miguel","Loreto Letelier",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",13,"San Miguel","Jorge Saint Jean",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",13,"San Miguel","Rodrigo Durán​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",13,"San Miguel","Daniel Melo",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",13,"San Miguel","Tucapel Jiménez",PPD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",13,"San Miguel","Guillermo Teillier",PCCh,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",13,"San Miguel","Andrés Dibán",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",13,"San Miguel","Juan Ignacio Latorre",RD,"Frente Amplio",1,0
+VII,"Región Metropolitana",13,"San Miguel","Gael Yeomans (IL)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",13,"San Miguel","Mauricio Carrasco (MA)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",13,"San Miguel","Carlos Astudillo (ND)",Otros,"Frente Amplio",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Jaime Bellolio",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Juan Antonio Coloma Álamos",UDI,"Chile Vamos",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Gloria Abud",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Pedro Pablo Errázuriz​",Evópoli,"Chile Vamos",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Leonardo Soto",PS,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Marcia González​",PRSD,"Nueva Mayoría",1,0
+VII,"Región Metropolitana",14,"San Bernardo","Renato Garín",RD,"Frente Amplio",1,0
+VIII,O'Higgins,15,Rancagua,"Issa Kort",UDI,"Chile Vamos",1,0
+VIII,O'Higgins,15,Rancagua,"Javier Macaya​",UDI,"Chile Vamos",1,0
+VIII,O'Higgins,15,Rancagua,"Diego Schalper​",RN,"Chile Vamos",1,0
+VIII,O'Higgins,15,Rancagua,"Pamela Medina​",Evópoli,"Chile Vamos",1,0
+VIII,O'Higgins,15,Rancagua,"Wladimir Román​",Evópoli,"Chile Vamos",1,0
+VIII,O'Higgins,15,Rancagua,"Juan Luis Castro",PS,"Nueva Mayoría",1,0
+VIII,O'Higgins,15,Rancagua,"Felipe Letelier",PPD,"Nueva Mayoría",1,0
+VIII,O'Higgins,15,Rancagua,"Francisco Parraguez​",IC,"Nueva Mayoría",1,0
+VIII,O'Higgins,15,Rancagua,"Sebastián Depolo",RD,"Frente Amplio",1,0
+VIII,O'Higgins,16,"San Fernando","Ramón Barros",UDI,"Chile Vamos",1,0
+VIII,O'Higgins,16,"San Fernando","Eduardo Cornejo​",UDI,"Chile Vamos",1,0
+VIII,O'Higgins,16,"San Fernando","Virginia Troncoso",UDI,"Chile Vamos",1,0
+VIII,O'Higgins,16,"San Fernando","Juan Pablo Olmedo",Evópoli,"Chile Vamos",1,0
+VIII,O'Higgins,16,"San Fernando","Sergio Salazar​",PS,"Nueva Mayoría",1,0
+VIII,O'Higgins,16,"San Fernando","Carolina Cucumides​",PPD,"Nueva Mayoría",1,0
+VIII,O'Higgins,16,"San Fernando","Cosme Mellado​",PRSD,"Nueva Mayoría",1,0
+VIII,O'Higgins,16,"San Fernando","Rubén Andino (MA)",Otros,"Frente Amplio",1,0
+VIII,O'Higgins,16,"San Fernando","Sergio Espejo",PDC,"Fuera de Pacto",1,0
+VIII,O'Higgins,16,"San Fernando","Nicolás Farfán",PDC,"Fuera de Pacto",1,0
+VIII,O'Higgins,16,"San Fernando","Alejandra Sepúlveda",FREVS,"Fuera de Pacto",1,0
+VIII,O'Higgins,16,"San Fernando","Aníbal Pérez",FREVS,"Fuera de Pacto",1,0
+IX,Maule,17,Talca,"Celso Morales",UDI,"Chile Vamos",1,0
+IX,Maule,17,Talca,"Pedro Álvarez-Salamanca",UDI,"Chile Vamos",1,0
+IX,Maule,17,Talca,"Pablo Milad",Evópoli,"Chile Vamos",1,0
+IX,Maule,17,Talca,"Pablo Prieto",Evópoli,"Chile Vamos",1,0
+IX,Maule,17,Talca,"Elías Vistoso​",Evópoli,"Chile Vamos",1,0
+IX,Maule,17,Talca,"Sergio Aguiló",Ind,"Nueva Mayoría",1,0
+IX,Maule,17,Talca,"Nataly Rojas",RD,"Frente Amplio",1,0
+IX,Maule,17,Talca,"Iván Sepúlveda",PH,"Frente Amplio",1,0
+IX,Maule,17,Talca,"Roberto León",PDC,"Fuera de Pacto",1,0
+IX,Maule,17,Talca,"Pablo Lorenzini",PDC,"Fuera de Pacto",1,0
+IX,Maule,18,Linares,"Romilio Gutiérrez",UDI,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Ignacio Urrutia",UDI,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Alejandra Ramírez",RN,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Rafael Ramírez",RN,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Felipe Cisternas​",RN,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Sebastián de Aguirre",Evópoli,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Hernán Larraín Matte​",Evópoli,"Chile Vamos",1,0
+IX,Maule,18,Linares,"Guillermo Ceroni",PPD,"Nueva Mayoría",1,0
+IX,Maule,18,Linares,"Ricardo Tapia (MA-PH-ND)",Otros,"Frente Amplio",1,0
+IX,Maule,18,Linares,"Manuel Matta",PDC,"Fuera de Pacto",1,0
+X,Bio-Bio,19,Chillán,"Margarita Letelier​",UDI,"Chile Vamos",1,0
+X,Bio-Bio,19,Chillán,"Gustavo Sanhueza​",UDI,"Chile Vamos",1,0
+X,Bio-Bio,19,Chillán,"Frank Sauerbaum​",RN,"Chile Vamos",1,0
+X,Bio-Bio,19,Chillán,"Jacqueline Guíñez​",RN,"Chile Vamos",1,0
+X,Bio-Bio,19,Chillán,"Juan Manuel Santa Cruz​",Evópoli,"Chile Vamos",1,0
+X,Bio-Bio,19,Chillán,"María Soledad Tohá​",PS,"Nueva Mayoría",1,0
+X,Bio-Bio,19,Chillán,"Loreto Carvajal",PPD,"Nueva Mayoría",1,0
+X,Bio-Bio,19,Chillán,"Carlos Abel Jarpa",PRSD,"Nueva Mayoría",1,0
+X,Bio-Bio,19,Chillán,"Enrique Jara",IGUAL,"Frente Amplio",1,0
+X,Bio-Bio,19,Chillán,"Jorge Sabag",PDC,"Fuera de Pacto",1,0
+X,Bio-Bio,19,Chillán,"Cristian Quiroz",Pais,"Fuera de Pacto",1,0
+X,Bio-Bio,20,Concepción,"Jorge Ulloa",UDI,"Chile Vamos",1,0
+X,Bio-Bio,20,Concepción,"Enrique van Rysselberghe",UDI,"Chile Vamos",1,0
+X,Bio-Bio,20,Concepción,"Gonzalo Arroyo",Evópoli,"Chile Vamos",1,0
+X,Bio-Bio,20,Concepción,"Francisca Parodi​",Evópoli,"Chile Vamos",1,0
+X,Bio-Bio,20,Concepción,"Clemira Pacheco",PS,"Nueva Mayoría",1,0
+X,Bio-Bio,20,Concepción,"Cristián Campos",PPD,"Nueva Mayoría",1,0
+X,Bio-Bio,20,Concepción,"Natalia Riffo",IX,"Nueva Mayoría",1,0
+X,Bio-Bio,20,Concepción,"Claudia Monje",RD,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Loreto Muñoz",PH,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Félix González",PEV,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Raquel Rebolledo",PEV,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Paula Opazo",PEV,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Cristina Yáñez",PEV,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Mauricio Pérez",IGUAL,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Gonzalo Reyes",IGUAL,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Cristián Cuevas (ND)",Otros,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"Camilo Riffo (MA)",Otros,"Frente Amplio",1,0
+X,Bio-Bio,20,Concepción,"José Miguel Ortiz",PDC,"Fuera de Pacto",1,0
+X,Bio-Bio,20,Concepción,"Alejandra Flores",Amplitud,"Sentido Futuro",1,0
+X,Bio-Bio,20,Concepción,"María González",Amplitud,"Sentido Futuro",1,0
+X,Bio-Bio,20,Concepción,"Miguel Pezo",Amplitud,"Sentido Futuro",1,0
+X,Bio-Bio,20,Concepción,"Mauricio Salgado",Amplitud,"Sentido Futuro",1,0
+X,Bio-Bio,21,"Los Ángeles","Ivan Norambuena",UDI,"Chile Vamos",1,0
+X,Bio-Bio,21,"Los Ángeles","René Núñez",Evópoli,"Chile Vamos",1,0
+X,Bio-Bio,21,"Los Ángeles","Manuel Monsalve",PS,"Nueva Mayoría",1,0
+X,Bio-Bio,21,"Los Ángeles","José Pérez Arriagada",PRSD,"Nueva Mayoría",1,0
+X,Bio-Bio,21,"Los Ángeles","Roberto Poblete",PS,"Nueva Mayoría",1,0
+"XI ",Araucanía,22,Angol,"Jorge Rathgeb",RN,"Chile Vamos",1,0
+"XI ",Araucanía,22,Angol,"Diego Paulsen",RN,"Chile Vamos",1,0
+"XI ",Araucanía,22,Angol,"Carmen Gloria Aravena​",Evópoli,"Chile Vamos",1,0
+"XI ",Araucanía,22,Angol,"Diego Ancalao",IC,"Nueva Mayoría",1,0
+"XI ",Araucanía,22,Angol,"Mario Venegas",PDC,"Fuera de Pacto",1,0
+"XI ",Araucanía,22,Angol,"Iván Cerda",Amplitud,"Sentido Futuro",1,0
+"XI ",Araucanía,22,Angol,"Tomás Sánchez",Ind.,"Sentido Futuro",1,0
+"XI ",Araucanía,23,Temuco,"Kurt Horta",UDI,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"Henry Leal",UDI,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"Germán Becker",RN,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"René Manuel García",RN,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"Andrés Molina",Evópoli,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"Sebastián Álvarez​",Evópoli,"Chile Vamos",1,0
+"XI ",Araucanía,23,Temuco,"Joaquín Tuma",PPD,"Nueva Mayoría",1,0
+"XI ",Araucanía,23,Temuco,"Fernando Meza",PRSD,"Nueva Mayoría",1,0
+"XI ",Araucanía,23,Temuco,"Felipe Valdebenito​",RD,"Frente Amplio",1,0
+"XI ",Araucanía,23,Temuco,"René Saffirio",IND,"Fuera de Pacto",1,0
+XII,"Los Ríos",24,Valdivia,"Bernardo Berger",RN,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Alonso Pérez de Arce",Evópoli,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Alex Schmidt​",Evópoli,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Hugo Ortiz de Filippi",PRI,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Waleska Ferhrmann",PRI,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Eduardo Salas​",PRI,"Chile Vamos",1,0
+XII,"Los Ríos",24,Valdivia,"Enrique Jaramillo",PPD,"Nueva Mayoría",1,0
+XII,"Los Ríos",24,Valdivia,"Wladimir Riesco​",RD,"Frente Amplio",1,0
+XII,"Los Ríos",24,Valdivia,"Vicente Gómez​",PEV,"Frente Amplio",1,0
+XII,"Los Ríos",24,Valdivia,"Carla Amtmann (ND)​",Otros,"Frente Amplio",1,0
+XII,"Los Ríos",24,Valdivia,"Cari Alvarez (IA)​",Otros,"Frente Amplio",1,0
+XII,"Los Ríos",24,Valdivia,"Bayron Velásquez (IL)​",Otros,"Frente Amplio",1,0
+XII,"Los Ríos",24,Valdivia,"Iván Flores",PDC,"Fuera de Pacto",1,0
+XIII,"Los Lagos",25,Osorno,"Javier Hernández",UDI,"Chile Vamos",1,0
+XIII,"Los Lagos",25,Osorno,"Aldo Duque",Evópoli,"Chile Vamos",1,0
+XIII,"Los Lagos",25,Osorno,"Carlos Moraga​",Evópoli,"Chile Vamos",1,0
+XIII,"Los Lagos",25,Osorno,"Jorge Tejeda​",PRI,"Chile Vamos",1,0
+XIII,"Los Lagos",25,Osorno,"Fidel Espinoza",PS,"Nueva Mayoría",1,0
+XIII,"Los Lagos",25,Osorno,"Rosemberg Hernández​",PRSD,"Nueva Mayoría",1,0
+XIII,"Los Lagos",25,Osorno,"Sergio Ojeda",PDC,"Fuera de Pacto",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Marisol Turres",UDI,"Chile Vamos",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Alejandro Santana",RN,"Chile Vamos",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Marcelo Vera​",Evópoli,"Chile Vamos",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Giovanna Bellocchio",PRI,"Chile Vamos",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Jorge Elgueta​",PRI,"Chile Vamos",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Jenny Álvarez",PS,"Nueva Mayoría",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Alejandro Bernales",PL,"Frente Amplio",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Ricardo Cáceres",Poder,"Frente Amplio",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Susan Ponce",Poder,"Frente Amplio",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Eduardo Ocampo (ND)",Otros,"Frente Amplio",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Patricio Vallespín",PDC,"Fuera de Pacto",1,0
+XIII,"Los Lagos",26,"Puerto Montt","Juan Antonio Espina7​",Amplitud,"Sentido Futuro",1,0
+XIV,Aysén,27,Coyhaique,"Eugenio Canales",UDI,"Chile Vamos",1,0
+XIV,Aysén,27,Coyhaique,"Néstor Mera​",UDI,"Chile Vamos",1,0
+XIV,Aysén,27,Coyhaique,"Aracely Leuquén​",RN,"Chile Vamos",1,0
+XIV,Aysén,27,Coyhaique,"Geoconda Navarrete​",Evópoli,"Chile Vamos",1,0
+XIV,Aysén,27,Coyhaique,"Patricio Henríquez Barrientos",PRI,"Chile Vamos",1,0
+XIV,Aysén,27,Coyhaique,"Carlos Irigoin Jara​",PPD,"Nueva Mayoría",1,0
+XIV,Aysén,27,Coyhaique,"Jorge Calderón​",PRSD,"Nueva Mayoría",1,0
+XIV,Aysén,27,Coyhaique,"Jessica Almonacid (MA)",Otros,"Frente Amplio",1,0
+XIV,Aysén,27,Coyhaique,"Iván Fuentes",PDC,"Fuera de Pacto",1,0
+XIV,Aysén,27,Coyhaique,"Iván Mlynarz",PRO,"Fuera de Pacto",1,0
+VI,"Magallanes y Antártica Chilena",28,"Punta Arenas","Laura Álvarez​",Evópoli,"Chile Vamos",1,0
+VI,"Magallanes y Antártica Chilena",28,"Punta Arenas","Juan José Arcos​",PRI,"Chile Vamos",1,0
+VI,"Magallanes y Antártica Chilena",28,"Punta Arenas","Michelle Peutat​",PS,"Nueva Mayoría",1,0
+VI,"Magallanes y Antártica Chilena",28,"Punta Arenas","Gabriel Boric (MA)",Otros,"Frente Amplio",1,0
+VI,"Magallanes y Antártica Chilena",28,"Punta Arenas","Juan Morano",PDC,"Fuera de Pacto",1,0

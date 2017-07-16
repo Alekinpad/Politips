@@ -1,0 +1,347 @@
+/* HOME */
+
+h1 h2 h3 h4 h5 {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.parallax {
+    background-image: url("../img/santiago.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.escritura {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: 40px;
+  color: #fff;
+}
+
+.numberCircle {
+    border-radius: 50%;
+
+    width: 36px;
+    height: 36px;
+    padding: 5px;
+
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.info_pagina {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.barra_busqueda select {
+  width: 600px;
+
+}
+
+footer {
+  background-color: #424b54;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* RESULTADOS*/
+
+.logo_estilo{
+  margin: -15px;
+  max-width: 100%;
+}
+
+.nav_style {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 500;
+}
+
+.nav_style ul li a {
+  color: #95989A;
+}
+
+.resultado {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.resultado_titulo {
+  padding: 30px 0 20px 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+  font-size: 60px;
+  text-align: center;
+}
+
+.resultado_voto {
+  padding: 0 0 40px 0;
+  font-weight: normal;
+  font-size: 46px;
+  color: #95989A;
+  text-align: center;
+}
+
+.resultado_voto span{
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.resultado_diputados {
+  text-align: center;
+  font-weight: normal;
+  font-size: 30px;
+  color:#FF5555;
+}
+
+.resultado_senadores {
+
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;
+  color:#1C82F7;
+}
+
+.porcentaje {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+.porcentaje_diputados {
+  text-align: center;
+  font-size: 100px;
+  color: #FF5555;
+}
+
+.porcentaje_senadores {
+  text-align: center;
+  font-size: 100px;
+  color: #1C82F7;
+}
+
+.icono_abajo {
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 70px;
+  font-size: 70px;
+}
+
+.titulo_circunscripcion {
+  text-align: center;
+  padding-bottom: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.desplegable_1 {
+  width: 300px
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  color: #252323;
+}
+
+.desplegable_1{
+  padding-top: 13px;
+  margin-bottom: 0;
+}
+
+.desplegable_2{
+  padding-top: 10px;
+}
+
+.principal_desplegable1{
+  font-size: 26px;
+  line-height: 41px
+}
+
+.datos_1{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  color: #252323;
+  padding-top: 10px;
+  font-size: 20px;
+  line-height: 41px
+}
+
+.icono_desplegable {
+  padding-top: 40px;
+  font-size: 50px;
+  color: #252323;
+}
+
+.colapsable_datos {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  color: #252323;
+  padding-top: 10px;
+  font-size: 20px;
+  line-height: 41px
+}
+
+.titulo_distrito {
+  text-align: center;
+  padding: 40px 0 20px 0;
+  font-family: 'Oswald', sans-serif;
+}
+
+.footer_estilo {
+  background-color: #424B54;
+  text-align: center;
+  height: 200px;
+}
+
+.footer_estilo img{
+  padding-top: 50px;
+}
+
+.footer_estilo h5{
+  color: #fff;
+}
+
+@media screen and (max-width: 480px) {
+
+  .resultado_titulo {
+    padding: 30px 0 20px 0;
+    font-weight: normal;
+    font-size: 37px;
+    text-align: center;
+  }
+
+  .resultado_voto {
+    font-weight: normal;
+    font-size: 20px;
+    color: #95989A;
+    text-align: center;
+  }
+
+  .resultado_voto span{
+    font-size: 16px;
+    font-weight: normal;
+  }
+
+  .resultado_diputados {
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color:#FF5555;
+  }
+
+  .resultado_senadores {
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color:#1C82F7;
+  }
+
+  .porcentaje {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+
+  .porcentaje_diputados {
+    font-size: 53px;
+    color: #FF5555;
+
+  }
+
+  .porcentaje_senadores {
+    font-size: 53px;
+    color: #1C82F7;
+
+  }
+
+  .icono_abajo {
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    font-size: 50px;
+  }
+
+  .titulo_circunscripcion {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+
+  .principal_desplegable1 {
+    text-align: center;
+    padding-top: 13px;
+    margin-bottom: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    color: #252323;
+  }
+
+  .desplegable_1{
+    padding-top: 13px;
+    margin-bottom: 0;
+    font-size: 20px;
+  }
+
+  .desplegable_2{
+    padding-top: 10px;
+    margin-bottom: 0;
+    font-size: 20px;
+  }
+
+  .principal_desplegable1{
+    font-size: 26px;
+    line-height: 41px
+  }
+
+  .datos_1{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    color: #252323;
+    padding-top: 10px;
+    font-size: 20px;
+    line-height: 41px
+  }
+
+  .icono_desplegable {
+    margin: 0 auto; 
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+    color: #252323;
+  }
+
+  .colapsable_datos {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    color: #252323;
+    padding-top: 10px;
+    font-size: 20px;
+    line-height: 41px
+  }
+
+  .titulo_distrito {
+    text-align: center;
+    padding: 40px 0 20px 0;
+    font-family: 'Oswald', sans-serif;
+  }
+
+  .footer_estilo {
+    background-color: #424B54;
+    text-align: center;
+    height: 200px;
+  }
+
+  .footer_estilo img{
+    padding-top: 50px;
+  }
+
+  .footer_estilo h5{
+    color: #fff;
+  }

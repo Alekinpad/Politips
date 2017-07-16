@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170715222416) do
+ActiveRecord::Schema.define(version: 20170716050533) do
 
   create_table "circunscripcions", force: :cascade do |t|
     t.string   "circ"
@@ -22,10 +22,11 @@ ActiveRecord::Schema.define(version: 20170715222416) do
 
   create_table "comunas", force: :cascade do |t|
     t.string   "nombre"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
     t.integer  "distrito_id"
-    t.float    "valor_voto"
+    t.float    "valor_voto_dip"
+    t.float    "valor_voto_sen"
     t.index ["distrito_id"], name: "index_comunas_on_distrito_id"
   end
 

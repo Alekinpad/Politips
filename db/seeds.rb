@@ -8,19 +8,19 @@
 
 require 'json'
 #file = File.read('data.json')
-dataFile = JSON.parse(open("#{Rails.root}/db/data.json").read)
+data_file = JSON.parse(open("#{Rails.root}/db/data.json").read)
 # loop iteration for JSON data
 circ = []
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
-  comuna = dataFile[stuff[0]]
+  comuna = data_file[stuff[0]]
   magnitud_senador = comuna["magnitud_senador"]
   circ << comuna["candidaturas_diputados"][0]["circ"]+','+comuna["candidaturas_diputados"][0]["region"]+','+magnitud_senador[0].to_s #+eval(comuna["magnitud_senador"])
 end
 
 # Circunscripcion
 Circunscripcion.delete_all
-dataArray = circ.uniq
-dataArray.each do |array|
+data_array = circ.uniq
+data_array.each do |array|
 	circ = array.split(",")[0]
 	region = array.split(",")[1]
 	senMag = array.split(",")[2].to_i
@@ -34,29 +34,29 @@ end
 
 Distrito.delete_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
-  comuna = dataFile[stuff[0]]
+  comuna = data_file[stuff[0]]
   magnitud_diputado = comuna["magnitud_diputado"]
   numero_distrito = comuna["numero_distrito"][0].to_i
 	circ = comuna["candidaturas_diputados"][0]["circ"]
-	circunscripcionObject = Circunscripcion.find_by({circ: circ})
+	circunscripcion_object = Circunscripcion.find_by({circ: circ})
 	distrito = Distrito.new({ numero_distrito: numero_distrito, magnitud_diputado: magnitud_diputado })
-	distrito.circunscripcion_id = circunscripcionObject.id
+	distrito.circunscripcion_id = circunscripcion_object.id
 	distrito.save
 end
 
 # Senador
 Senador.delete_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
-  comuna = dataFile[stuff[0]]
+  comuna = data_file[stuff[0]]
   candidatos = comuna["candidaturas_senador"]
   candidatos.each do |candidato|
   	circ = candidato["circ"]
-  	nombreCandidato  = candidato["candidato"]
-  	partidoCandidato  = candidato["partido"]
-  	pactoCandidato  = candidato["pacto"]
-  	circunscripcionObject = Circunscripcion.find_by({circ: circ})
-  	senador = Senador.new({ candidato: nombreCandidato, partido: partidoCandidato, pacto: pactoCandidato })
-  	senador.circunscripcion_id = circunscripcionObject.id
+  	nombre_candidato  = candidato["candidato"]
+  	partido_candidato  = candidato["partido"]
+  	pacto_candidato  = candidato["pacto"]
+  	circunscripcion_object = Circunscripcion.find_by({circ: circ})
+  	senador = Senador.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
+  	senador.circunscripcion_id = circunscripcion_object.id
   	senador.save
   end
 end
@@ -64,16 +64,36 @@ end
 # Diputado
 Diputado.delete_all
 JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
-  comuna = dataFile[stuff[0]]
+  comuna = data_file[stuff[0]]
   numero_distrito = comuna["numero_distrito"][0].to_i
   candidatos = comuna["candidaturas_diputados"]
-  distritoObject = Distrito.find_by({numero_distrito: numero_distrito})
+  distrito_object = Distrito.find_by({numero_distrito: numero_distrito})
   candidatos.each do |candidato|
-  	nombreCandidato  = candidato["candidato"]
-  	partidoCandidato  = candidato["partido"]
-  	pactoCandidato  = candidato["pacto"]
-  	diputado = Diputado.new({ candidato: nombreCandidato, partido: partidoCandidato, pacto: pactoCandidato })
-  	diputado.distrito_id = distritoObject.id
+  	nombre_candidato  = candidato["candidato"]
+  	partido_candidato  = candidato["partido"]
+  	pacto_candidato  = candidato["pacto"]
+  	diputado = Diputado.new({ candidato: nombre_candidato, partido: partido_candidato, pacto: pacto_candidato })
+  	diputado.distrito_id = distrito_object.id
   	diputado.save
   end
 end
+
+# Comunas
+Comuna.delete_all
+JSON.parse(open("#{Rails.root}/db/data.json").read).each do |stuff|
+  comuna = data_file[stuff[0]]
+  nombre_comuna = stuff[0]
+  valor_voto_dip = comuna["valor_voto_dip"][0]
+  valor_voto_sen = comuna["valor_voto_sen"][0]
+  numero_distrito = comuna["numero_distrito"][0].to_i # FIXME: catch here.
+  distrito_object = Distrito.find_by({numero_distrito: numero_distrito})
+  distrito = Comuna.new({ nombre: nombre_comuna, valor_voto_dip: valor_voto_dip, valor_voto_sen: valor_voto_sen })
+  distrito.distrito_id = distrito_object.id
+  distrito.save
+end
+
+
+# TODO: Valor valor_voto_dip
+
+
+# TODO: Valor valor_voto_sen

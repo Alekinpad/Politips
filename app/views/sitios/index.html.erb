@@ -1,2 +1,117 @@
-<h1>Sitios#index</h1>
-<p>Find me in app/views/sitios/index.html.erb</p>
+
+<!-- <title>Candidatos en tu distrito o circunscripcion</title> -->
+
+
+  <section class="banner_busqueda">
+    <!-- seccion banner con barra de busqueda -->
+    <div class="parallax">
+      <!-- parallax con imagen de fondo -->
+      <div class="container escritura text-center">
+        <!-- typed js escritura -->
+        <div id="typed-strings">
+          <h1>¿Sabías que Hotuiti Teao es candidato a diputado por Valparaíso?</h1>
+          <h1>Conoce a tus representates y el poder de voto en el buscador</h1>
+        </div>
+        <span id="typed"></span>
+      </div>
+
+      <div class="container text-center">
+        <!-- barra busqueda -->
+        <div class="row">
+
+          <div class="col-md-4 col-lg-6 col-xl-10 barra_busqueda ">
+            <!-- Dropdown -->
+            <!-- <select class="js-example-basic-single"> -->
+            <!-- HACK: Revisar zanahoria -->
+            <!-- </select> -->
+            <%= form_tag '/sitios/resultado' do %>
+              <%= select_tag :comuna, options_from_collection_for_select(@comunas, :id,:nombre), {:class => 'js-example-basic-single'}%>
+                <div class="col-md-1 ">
+                <button type="submit" class="btn btn-default consulta">Consulta</button>
+                </div>
+
+            <% end %>
+          </div>
+
+          <div class="col-md-1 ">
+            <button type="submit" class="btn btn-default consulta">Consulta</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="container info_pagina">
+
+      <div class="row">
+        <div class="col-md-1 col-sm-1 col-xs-12 numero">
+          <div class="numberCircle text-center">1</div>
+        </div>
+        <div class="col-md-3 col-sm-11 col-xs-12">
+          <h3 class="text-center">
+            Busca tu comuna
+          </h3>
+          <p class="text-center">
+            Escribe en el buscador tu comuna</p>
+        </div>
+
+        <div class="col-md-1 col-sm-1 col-xs-12 numero ">
+          <div class="numberCircle text-center">2</div>
+        </div>
+        <div class="col-md-3 col-sm-11 col-xs-12 ">
+          <h3 class="text-center">
+            Conoce el poder de tu voto
+          </h3>
+          <p class="text-center">
+            Analiza tu voto</p>
+        </div>
+        <div class="col-md-1 col-sm-1 col-xs-12 numero ">
+          <div class="numberCircle text-center">3</div>
+        </div>
+        <div class="col-md-3 col-sm-11 col-xs-12">
+          <h3 class="text-center">
+            Decide informado
+          </h3>
+          <p class="text-center">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quos fugiat dolorem quidem voluptate omnis, odit optio officiis, accusamus
+          </p>
+        </div>
+
+      </div>
+    </section>
+    <footer>
+      <div class="container">
+        <div style="display: block ; text-align: center">
+          <img src="img/politips_blanco.png" alt="logo politips" width="10%">
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="lib/typed.js" type="text/javascript"></script>
+    <script src="js/lib/typed.js" type="text/javascript"></script>
+    <script>
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        typeSpeed: 50,
+        backSpeed: 35
+      });
+    </script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $(".js-example-basic-single").select2();
+      });
+    </script>
+
+
+    <!-- <script type="text/javascript">
+      $(".js-example-basic-multiple").select2();
+    </script> -->
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $(".js-example-basic-single").select2();
+      });
+    </script>

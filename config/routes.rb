@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
-	
+
   root to: 'sitios#index'
 
-  get 'sitios/resultado'
+  post 'sitios/resultado'
 
   get 'sitios/contacto'
 

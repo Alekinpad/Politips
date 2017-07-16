@@ -1,17 +1,157 @@
-<%= @c_id %>
-<%= @distrito.numero_distrito %>
-<%= @distrito.magnitud_diputado %>
-<%= @distrito.circunscripcion %>
-<%= @senadores %>
+<!--Resultado-->
+  <div class="container resultado">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <h1 class="resultado_titulo">RESULTADO</h1>
+        <h3 class="resultado_voto">El Valor de tu voto es<span>*</span> </h3>
+      </div>
+    </div>
+  </div>
 
-<ul>
-  <% @diputados.each do |diputado| %>
-    <li>
-      <%= diputado.candidato %>
-    </li>
-  <% end %>
-</ul>
+<!--Diputados-->
+  <div class="container resultado">
+    <div class="row ">
+        <div class="col-md-4 col-md-offset-2">
+          <h4 class="resultado_diputados">Diputados</h4>
+          <h3 class="porcentaje_diputados"><%= @comuna.valor_voto_dip.to_s %> </h3>
+       </div>
+     <div class="col-md-4">
+         <h4 class="resultado_senadores ">Senadores</h4>
+         <h3 class="porcentaje_senadores"><%= @comuna.valor_voto_sen.to_s %> </h3>
+      </div>
+    </div>
+  </div>
+
+<!--Senadores-->
+  <!-- <div class="container resultado">
+    <div class="row">
+      <div class="porcentaje ">
+          <h4 class="resultado_senadores col-md-4">Senadores</h4>
+          <h3 class="porcentaje_senadores col-md-4 col-sm-4">68%</h3>
+      </div>
+    </div>
+  </div> -->
+
+<!--Flecha abajo-->
+  <div class="icono_abajo text-center">
+    <span class="glyphicon glyphicon-menu-down"><a href="#circunscripcion"></a></span>
+  </div>
+
+<!--Lista desplegble-->
+
+  <h2 class="titulo_circunscripcion">Circunscripción</h2>
+
+  <div class="panel-group desplegable_1">
+    <div class="panel panel-default">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-4 principal_desplegable1">
+            <p class="desplegable_1">Región:</p>
+            <p><%= @distrito.circunscripcion.region %></p>
+        </div>
+        <!--Datos región y escaños-->
+        <div class="col-md-4 datos_1">
+          <p class="desplegable_2">Escaños:</p>
+          <p><%= @distrito.circunscripcion.magnitud_senador %></p>
+        </div>
+          <div class="clearfix "></div>
+        <div class="  text-center">
+          <a data-toggle="collapse" href="#colapsar1">
+            <span class="glyphicon glyphicon-menu-down icono_desplegable center"></span>
+          </a>
+        </div>
+      </div>
+
+      <div id="colapsar12" class="panel-collapse1 collapse1 colapsable_datos">
+        <!--Datos Colapsable-->
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Partido</th>
+                <th>Pacto</th>
+              </tr>
+            </thead>
+            <tbody>
+            	<% cont = 1 %>
+              <% @senadores.each do |senado| %>
+			    <tr>
+			      <td><%= cont  %></td>
+			      <td><%= senado.candidato %></td>
+			      <td><%= senado.partido %></td>
+			      <td><%= senado.pacto %></td>
+			      <% cont +=1  %>
+			    </tr>
+			  <% end %>
+              
+            </tbody>
+          </table>
+      </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!--Lista desplegble-->
+  <h2 class="titulo_distrito">Distrito</h2>
+
+  <div class="panel-group desplegable_1">
+    <div class="panel panel-default">
+      <div class="row">
+        <div class="col-md-offset-2 col-sm-2 col-md-4 principal_desplegable1">
+            <p class="desplegable_1">Nº de Distrito:</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+        </div>
+        <!--Datos región y escaños-->
+        <div class="col-md-4 col-sm-4 datos_1">
+          <p class="desplegable_2">Escaños:</p>
+          <p>Lorem ipsum dolor sit amet.</p>
+        </div>
+        <div class="clearfix "></div>
+        <div class="text-center">
+          <a data-toggle="collapse" href="#colapsar2">
+            <span class="glyphicon glyphicon-menu-down icono_desplegable1"></span>
+          </a>
+        </div>
+      </div>
+
+      <div id="colapsar22" class="panel-collapse1 collapse1 colapsable_datos">
+        <!--Datos Colapsable-->
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Partido</th>
+                <th>Pacto</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% cont = 1 %>
+              <% @diputados.each do |diputado| %>
+			    <tr>
+			      <td><%= cont  %></td>
+			      <td><%= diputado.candidato %></td>
+			      <td><%= diputado.partido %></td>
+			      <td><%= diputado.pacto %></td>
+			      <% cont +=1  %>
+			    </tr>
+			  <% end %>
+            </tbody>
+          </table>
+      </div>
+
+    </div>
+  </div>
+
+    <div class="footer_estilo">
+      <img src="img/politips_blanco.png" alt="Logo Politips Blanco" width="200px">
+      <h5>Politips 2017.</h5>
+
+    </div>
 
 
 
-<!--  -->
+
+

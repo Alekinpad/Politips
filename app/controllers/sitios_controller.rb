@@ -6,7 +6,8 @@ class SitiosController < ApplicationController
 
   def resultado
     @c_id = params[:comuna]
-    @distrito = Comuna.find_by({'id':@c_id}).distrito
+    @comuna = Comuna.find_by({'id':@c_id})
+    @distrito = @comuna.distrito
     @diputados = @distrito.diputados
     @circunscripcion = @distrito.circunscripcion
     @senadores = @circunscripcion.senadors

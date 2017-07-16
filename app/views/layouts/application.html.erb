@@ -31,41 +31,44 @@
   </head>
 
   <body>
+    <!--Nav Bar-->
     <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="container">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/sitios/back"><img alt="Logo Politips" src="img/politips_negro.png" width="25%">
-            </div>
+    <div class="container-fluid">
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
-              <ul class="nav navbar-nav navbar-right">
-                <li>
-                  <a href="#">Acerca de</a>
-                </li>
-                <li>
-                  <a href="#">FAQ</a>
-                </li>
-                <li>
-                  <a href="#">Contacto</a>
-                </li>
-              </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-          </div>
+<!-- Brand and toggle get grouped for better mobile display -->
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand logo_estilo" href="#"><img  alt="Logo Politip" src="img/politips_negro.png" width="130px" >
         </div>
-        <!-- /.container-fluid -->
-      </nav>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+          <ul class="nav navbar-nav navbar-right" style="font-family: 'Oswald', sans-serif;
+  font-size: 20px; line-height: 30px; font-weight: 500;">
+            <li><a href="#">ACERCA DE</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">CONTACTO</a></li>
+          </ul>
+        </div> <!-- /.navbar-collapse -->
+      </div>
+    </div> <!-- /.container-fluid -->
+  </nav>
 
     <%= yield %>
+
+  <div class="footer_estilo">
+      <img src="img/politips_blanco.png" alt="Logo Politips Blanco" width="200px">
+      <h5>Politips 2017.</h5>
+
+  </div>
+
+
   </body>
 </html>
